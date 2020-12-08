@@ -36,7 +36,7 @@ try:
     remote = repo.create_remote("github", url=remote_url)
     remote.push(refspec='{}:{}'.format("master", "master"))
     # origin.push()
-except:
-    print('Some error occured while pushing the code')
+except e:
+    print('Some error occured while pushing the code ' + e)
 
 print("Updating")
