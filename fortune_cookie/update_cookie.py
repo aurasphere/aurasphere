@@ -33,7 +33,7 @@ try:
     repo.git.add(update=True)
     repo.index.commit("Updated cookie message")
     # origin = repo.remote(name='origin')
-    remote = repo.create_remote("github", url=remote_url)
+    remote = repo.create_remote("github_auth", url=remote_url)
     remote.push(refspec='{}:{}'.format("master", "master"))
     # origin.push()
 except Exception as e:
