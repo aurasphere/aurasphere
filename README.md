@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Donato, and this is your daily fortune:
 
-> 🥠 Someone will invite you to a Karaoke party.
+> 🥠 The road to riches is paved with homework.
 
-Last update: Tue Dec  8 23:29:28 2020
+Last update: Tue Dec  8 23:30:56 2020

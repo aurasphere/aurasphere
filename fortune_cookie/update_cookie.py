@@ -32,10 +32,11 @@ try:
     repo = Repo("..")
     repo.git.add(update=True)
     repo.index.commit("Updated cookie message")
-    # origin = repo.remote(name='origin')
-    remote = repo.create_remote("github_auth", url=remote_url)
-    remote.push(refspec='{}:{}'.format("master", "master"))
-    # origin.push()
+    origin = repo.remote(name='origin')
+    origin.set_url(remote_url)
+    #remote = repo.create_remote("github_auth", url=remote_url)
+    #remote.push(refspec='{}:{}'.format("master", "master"))
+    origin.push()
 except Exception as e:
     print('Some error occured while pushing the code ' + e.__cause__)
 
