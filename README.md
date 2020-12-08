@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Donato, and this is your daily fortune:
 
-> 🥠 You can always find happiness at work on Friday.
+> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
 
-Last update: Tue Dec  8 22:59:07 2020
+Last update: Tue Dec  8 23:24:56 2020

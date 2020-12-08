@@ -1,6 +1,10 @@
 import random
 import time
 from git import Repo
+import os
+
+remote_url = os.getenv('HTTPS_REMOTE_URL')
+print(remote_url)
 
 # Opens the fortunes file and reads a random line
 with open('./fortunes.cookie', encoding='utf-8') as f:
@@ -28,8 +32,10 @@ try:
     repo = Repo("..")
     repo.git.add(update=True)
     repo.index.commit("Updated cookie message")
-    origin = repo.remote(name='origin')
-    origin.push()
+    # origin = repo.remote(name='origin')
+    remote = repo.create_remote("github", url=remote_url)
+    remote.push(refspec='{}:{}'.format("master", "master"))
+    # origin.push()
 except:
     print('Some error occured while pushing the code')
 
