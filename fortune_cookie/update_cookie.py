@@ -37,6 +37,6 @@ try:
     remote.push(refspec='{}:{}'.format("master", "master"))
     # origin.push()
 except Exception as e:
-    print('Some error occured while pushing the code ' + e)
+    print('Some error occured while pushing the code ' + e.__cause__)
 
 print("Updating")
