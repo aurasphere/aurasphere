@@ -24,10 +24,13 @@ with open('../README.md', 'w', encoding='utf-8') as f:
     f.writelines(lines)
 
 # Commits the file
-repo = Repo("..")
-repo.git.add(update=True)
-repo.index.commit("Updated cookie message")
-origin = repo.remote(name='origin')
-origin.push()
+try:
+    repo = Repo("..")
+    repo.git.add(update=True)
+    repo.index.commit("Updated cookie message")
+    origin = repo.remote(name='origin')
+    origin.push()
+except:
+    print('Some error occured while pushing the code')
 
 print("Updating")
