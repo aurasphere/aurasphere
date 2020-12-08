@@ -3,9 +3,6 @@ import time
 from git import Repo
 import os
 
-remote_url = os.getenv('HTTPS_REMOTE_URL')
-print(remote_url)
-
 # Opens the fortunes file and reads a random line
 with open('./fortunes.cookie', encoding='utf-8') as f:
     lines = f.readlines()
@@ -27,17 +24,11 @@ for i, line in enumerate(lines):
 with open('../README.md', 'w', encoding='utf-8') as f:
     f.writelines(lines)
 
-# Commits the file
-try:
-    repo = Repo("..")
-    repo.git.add(update=True)
-    repo.index.commit("Updated cookie message")
-    origin = repo.remote(name='origin')
-    origin.set_url(remote_url)
-    #remote = repo.create_remote("github_auth", url=remote_url)
-    #remote.push(refspec='{}:{}'.format("master", "master"))
-    origin.push()
-except Exception as e:
-    print('Some error occured while pushing the code ' + e.__cause__)
-
-print("Updating")
+# Commits the updated files
+remote_url = os.getenv('REMOTE_URL')
+repo = Repo("..")
+repo.git.add(update=True)
+repo.index.commit("Updated fortune cookie message")
+origin = repo.remote(name='origin')
+origin.set_url(remote_url)
+origin.push()
