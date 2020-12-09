@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Donato, and this is your daily fortune:
 
-> 🥠 The road to riches is paved with homework.
+> 🥠 There's no angry way to say bubbles.
 
-Last update: Tue Dec  8 23:30:56 2020
+Last update: Wed Dec  9 09:49:58 2020
