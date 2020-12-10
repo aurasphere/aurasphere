@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Donato, and this is your daily fortune:
 
-> 🥠 There's no angry way to say bubbles.
+> 🥠 Does not compile.
 
-Last update: Wed Dec  9 09:49:58 2020
+Last update: Thu Dec 10 08:42:07 2020
