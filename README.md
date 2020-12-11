@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Donato, and this is your daily fortune:
 
-> 🥠 Does not compile.
+> 🥠 You will live long enough to open many fortune cookies.
 
-Last update: Thu Dec 10 08:42:07 2020
+Last update: Fri Dec 11 09:36:45 2020
