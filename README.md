@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who throws dirt is losing ground.
+> 🥠 I cannot help you, for I am just a cookie.
 
-Last update: Sun Dec 13 08:16:41 2020
+Last update: Mon Dec 14 08:21:23 2020
