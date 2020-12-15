@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I cannot help you, for I am just a cookie.
+> 🥠 You will live long enough to open many fortune cookies.
 
-Last update: Mon Dec 14 08:21:23 2020
+Last update: Tue Dec 15 08:31:55 2020
