@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 All fortunes are wrong except this one.
+> 🥠 You have rice in your teeth.
 
-Last update: Wed Dec 16 08:28:53 2020
+Last update: Thu Dec 17 08:24:25 2020
