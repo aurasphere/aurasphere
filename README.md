@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You have rice in your teeth.
+> 🥠 How much deeper would the ocean be without sponges?
 
-Last update: Thu Dec 17 08:24:25 2020
+Last update: Fri Dec 18 08:26:07 2020
