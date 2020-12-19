@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 How much deeper would the ocean be without sponges?
+> 🥠 There's no angry way to say bubbles.
 
-Last update: Fri Dec 18 08:26:07 2020
+Last update: Sat Dec 19 08:19:14 2020
