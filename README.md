@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
+> 🥠 Never do something halfway. If you do it w
 
-Last update: Sun Dec 20 08:20:04 2020
+Last update: Mon Dec 21 08:22:50 2020
