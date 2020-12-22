@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never do something halfway. If you do it w
+> 🥠 He who laughs last is laughing at you.
 
-Last update: Mon Dec 21 08:22:50 2020
+Last update: Tue Dec 22 08:24:27 2020
