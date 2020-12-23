@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs last is laughing at you.
+> 🥠 A cynic is only a frustrated optimist.
 
-Last update: Tue Dec 22 08:24:27 2020
+Last update: Wed Dec 23 08:21:19 2020
