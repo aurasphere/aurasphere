@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Does not compile.
+> 🥠 No snowflake feels responsible in an avalanche.
 
-Last update: Thu Dec 24 08:22:02 2020
+Last update: Fri Dec 25 08:22:52 2020
