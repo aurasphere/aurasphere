@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 No snowflake feels responsible in an avalanche.
+> 🥠 Don’t behave with cold manners.
 
-Last update: Fri Dec 25 08:22:52 2020
+Last update: Sat Dec 26 08:23:51 2020
