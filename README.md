@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I am worth a fortune.
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
-Last update: Sun Dec 27 08:24:03 2020
+Last update: Mon Dec 28 08:24:31 2020
