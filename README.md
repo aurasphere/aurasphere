@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some men dream of fortunes, others dream of cookies.
+> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
 
-Last update: Mon Dec 28 08:24:31 2020
+Last update: Tue Dec 29 08:25:10 2020
