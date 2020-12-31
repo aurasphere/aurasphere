@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You can always find happiness at work on Friday.
+> 🥠 Ask not what your fortune cookie can do for you but what you can do for your fortune cookie.
 
-Last update: Wed Dec 30 08:25:47 2020
+Last update: Thu Dec 31 08:26:34 2020
