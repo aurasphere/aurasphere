@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t forget you are always on our minds.
+> 🥠 Someone will invite you to a Karaoke party.
 
-Last update: Fri Jan  1 08:27:14 2021
+Last update: Sat Jan  2 08:28:05 2021
