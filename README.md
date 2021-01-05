@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you look back, you’ll soon be going that way.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
-Last update: Mon Jan  4 08:29:25 2021
+Last update: Tue Jan  5 08:36:11 2021
