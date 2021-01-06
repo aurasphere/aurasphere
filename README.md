@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fortune not found? Abort, Retry, Ignore.
+> 🥠 It’s about time I got out of that cookie.
 
-Last update: Tue Jan  5 08:36:11 2021
+Last update: Wed Jan  6 08:30:33 2021
