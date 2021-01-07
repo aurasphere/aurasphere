@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
+> 🥠 Actions speak louder than fortune cookies.
 
-Last update: Wed Jan  6 08:30:33 2021
+Last update: Thu Jan  7 08:31:19 2021
