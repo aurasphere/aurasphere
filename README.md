@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Actions speak louder than fortune cookies.
+> 🥠 I am worth a fortune.
 
-Last update: Thu Jan  7 08:31:19 2021
+Last update: Fri Jan  8 08:32:00 2021
