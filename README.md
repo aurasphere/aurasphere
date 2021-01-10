@@ -2,6 +2,5 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
-
-Last update: Sat Jan  9 08:32:04 2021
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
+Last update: Sun Jan 10 08:32:47 2021
