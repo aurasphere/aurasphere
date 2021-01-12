@@ -2,5 +2,5 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Flattery will go far tonight.
-Last update: Mon Jan 11 08:33:41 2021
+> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
+Last update: Tue Jan 12 08:34:25 2021
