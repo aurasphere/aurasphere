@@ -2,5 +2,5 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
-Last update: Tue Jan 12 08:34:25 2021
+> 🥠 Three can keep a secret, if you get rid of two.
+Last update: Wed Jan 13 08:34:58 2021
