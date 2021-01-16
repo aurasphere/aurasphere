@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 Never wear your best pants when you go to fight for freedom.
 
-Last update: Fri Jan 15 08:37:42 2021
+Last update: Sat Jan 16 08:36:41 2021
