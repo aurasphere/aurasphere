@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never wear your best pants when you go to fight for freedom.
+> 🥠 You think it’s a secret, but they know.
 
-Last update: Sat Jan 16 08:36:41 2021
+Last update: Sun Jan 17 08:37:36 2021
