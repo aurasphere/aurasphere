@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You think it’s a secret, but they know.
+> 🥠 All fortunes are wrong except this one.
 
-Last update: Sun Jan 17 08:37:36 2021
+Last update: Mon Jan 18 08:40:33 2021
