@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 All fortunes are wrong except this one.
+> 🥠 Hard work pays off in the future. Laziness pays off now.
 
-Last update: Mon Jan 18 08:40:33 2021
+Last update: Tue Jan 19 08:39:17 2021
