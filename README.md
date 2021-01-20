@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Hard work pays off in the future. Laziness pays off now.
+> 🥠 You will live long enough to open many fortune cookies.
 
-Last update: Tue Jan 19 08:39:17 2021
+Last update: Wed Jan 20 08:41:54 2021
