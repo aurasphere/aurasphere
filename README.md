@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will live long enough to open many fortune cookies.
+> 🥠 There's no angry way to say bubbles.
 
-Last update: Wed Jan 20 08:41:54 2021
+Last update: Thu Jan 21 09:01:07 2021
