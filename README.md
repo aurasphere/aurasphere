@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There's no angry way to say bubbles.
+> 🥠 Actions speak louder than fortune cookies.
 
-Last update: Thu Jan 21 09:01:07 2021
+Last update: Fri Jan 22 09:16:05 2021
