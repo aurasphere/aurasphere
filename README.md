@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fail.
+> 🥠 A cynic is only a frustrated optimist.
 
-Last update: Sat Jan 23 08:46:55 2021
+Last update: Sun Jan 24 08:41:48 2021
