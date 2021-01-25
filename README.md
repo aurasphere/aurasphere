@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A cynic is only a frustrated optimist.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Sun Jan 24 08:41:48 2021
+Last update: Mon Jan 25 08:56:00 2021
