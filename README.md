@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
+> 🥠 Do not mistake temptation for opportunity.
 
-Last update: Mon Jan 25 08:56:00 2021
+Last update: Tue Jan 26 09:32:58 2021
