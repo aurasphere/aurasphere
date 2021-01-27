@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 You will receive a fortune cookie.
 
-Last update: Tue Jan 26 09:32:58 2021
+Last update: Wed Jan 27 10:12:54 2021
