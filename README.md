@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Enjoy yourself while you can.
+> 🥠 Hard work pays off in the future. Laziness pays off now.
 
-Last update: Thu Jan 28 10:17:00 2021
+Last update: Fri Jan 29 10:39:43 2021
