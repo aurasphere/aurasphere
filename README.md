@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Hard work pays off in the future. Laziness pays off now.
+> 🥠 Never do something halfway. If you do it w
 
-Last update: Fri Jan 29 10:39:43 2021
+Last update: Sat Jan 30 09:38:58 2021
