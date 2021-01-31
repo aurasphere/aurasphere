@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never do something halfway. If you do it w
+> 🥠 The fortune you seek is in another cookie.
 
-Last update: Sat Jan 30 09:38:58 2021
+Last update: Sun Jan 31 09:03:33 2021
