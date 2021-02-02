@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
 
-Last update: Mon Feb  1 09:22:28 2021
+Last update: Tue Feb  2 09:07:27 2021
