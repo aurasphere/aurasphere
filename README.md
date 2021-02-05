@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
+> 🥠 It’s about time I got out of that cookie.
 
-Last update: Thu Feb  4 08:56:30 2021
+Last update: Fri Feb  5 08:49:55 2021
