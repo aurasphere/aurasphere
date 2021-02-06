@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
+> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
 
-Last update: Fri Feb  5 08:49:55 2021
+Last update: Sat Feb  6 08:48:03 2021
