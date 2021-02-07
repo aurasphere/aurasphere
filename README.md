@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
+> 🥠 An alien of some sort will be appearing to you shortly.
 
-Last update: Sat Feb  6 08:48:03 2021
+Last update: Sun Feb  7 08:48:40 2021
