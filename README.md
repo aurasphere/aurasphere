@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 An alien of some sort will be appearing to you shortly.
+> 🥠 18,000 children starve to death every day. They would have loved this cookie.
 
-Last update: Sun Feb  7 08:48:40 2021
+Last update: Mon Feb  8 08:52:48 2021
