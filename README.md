@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 18,000 children starve to death every day. They would have loved this cookie.
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
-Last update: Mon Feb  8 08:52:48 2021
+Last update: Tue Feb  9 08:58:10 2021
