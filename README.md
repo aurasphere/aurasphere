@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some men dream of fortunes, others dream of cookies.
+> 🥠 Your pet is planning to eat you.
 
-Last update: Tue Feb  9 08:58:10 2021
+Last update: Wed Feb 10 08:57:13 2021
