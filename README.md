@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your pet is planning to eat you.
+> 🥠 Hard work pays off in the future. Laziness pays off now.
 
-Last update: Wed Feb 10 08:57:13 2021
+Last update: Thu Feb 11 09:00:57 2021
