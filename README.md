@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Hard work pays off in the future. Laziness pays off now.
+> 🥠 Never forget a friend. Especially if he owes you.
 
-Last update: Thu Feb 11 09:00:57 2021
+Last update: Fri Feb 12 08:52:33 2021
