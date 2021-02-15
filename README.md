@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your pet is planning to eat you.
+> 🥠 I see money in your future. It's not yours though.
 
-Last update: Sun Feb 14 08:52:08 2021
+Last update: Mon Feb 15 08:52:20 2021
