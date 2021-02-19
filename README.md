@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 We don’t know the future, but here’s a cookie.
+> 🥠 A conclusion is simply the place where you got tired of thinking.
 
-Last update: Thu Feb 18 08:52:44 2021
+Last update: Fri Feb 19 08:53:01 2021
