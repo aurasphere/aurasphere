@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A conclusion is simply the place where you got tired of thinking.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Fri Feb 19 08:53:01 2021
+Last update: Sat Feb 20 08:53:39 2021
