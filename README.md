@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
-Last update: Sat Feb 20 08:53:39 2021
+Last update: Sun Feb 21 08:54:36 2021
