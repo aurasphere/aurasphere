@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
+> 🥠 There's no angry way to say bubbles.
 
-Last update: Sun Feb 21 08:54:36 2021
+Last update: Mon Feb 22 08:54:52 2021
