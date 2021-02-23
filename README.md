@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There's no angry way to say bubbles.
+> 🥠 You will marry a professional athlete - if competitive eating can be considered a sport.
 
-Last update: Mon Feb 22 08:54:52 2021
+Last update: Tue Feb 23 08:55:28 2021
