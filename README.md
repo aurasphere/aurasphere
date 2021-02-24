@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will marry a professional athlete - if competitive eating can be considered a sport.
+> 🥠 Ignore previous cookie.
 
-Last update: Tue Feb 23 08:55:28 2021
+Last update: Wed Feb 24 08:56:04 2021
