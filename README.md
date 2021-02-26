@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fail.
+> 🥠 Actions speak louder than fortune cookies.
 
-Last update: Thu Feb 25 08:56:08 2021
+Last update: Fri Feb 26 08:57:03 2021
