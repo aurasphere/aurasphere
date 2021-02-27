@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Actions speak louder than fortune cookies.
+> 🥠 May you someday be carbon neutral.
 
-Last update: Fri Feb 26 08:57:03 2021
+Last update: Sat Feb 27 08:57:17 2021
