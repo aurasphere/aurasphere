@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 May you someday be carbon neutral.
+> 🥠 Some fortune cookies contain no fortune.
 
-Last update: Sat Feb 27 08:57:17 2021
+Last update: Sun Feb 28 08:57:56 2021
