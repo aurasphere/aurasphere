@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some fortune cookies contain no fortune.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Sun Feb 28 08:57:56 2021
+Last update: Mon Mar  1 08:58:49 2021
