@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 Do not mistake temptation for opportunity.
 
-Last update: Mon Mar  1 08:58:49 2021
+Last update: Tue Mar  2 09:00:13 2021
