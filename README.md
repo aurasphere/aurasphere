@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 This cookie contains 117 calories.
 
-Last update: Tue Mar  2 09:00:13 2021
+Last update: Wed Mar  3 09:00:00 2021
