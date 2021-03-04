@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
+> 🥠 Change is inevitable, except for vending machines.
 
-Last update: Wed Mar  3 09:00:00 2021
+Last update: Thu Mar  4 09:00:29 2021
