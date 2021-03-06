@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It is a good day to have a good day.
+> 🥠 A conclusion is simply the place where you got tired of thinking.
 
-Last update: Fri Mar  5 09:01:20 2021
+Last update: Sat Mar  6 09:01:31 2021
