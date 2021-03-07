@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A conclusion is simply the place where you got tired of thinking.
+> 🥠 Change is inevitable, except for vending machines.
 
-Last update: Sat Mar  6 09:01:31 2021
+Last update: Sun Mar  7 09:01:50 2021
