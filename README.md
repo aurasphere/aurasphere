@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will receive a fortune cookie.
+> 🥠 Some fortune cookies contain no fortune.
 
-Last update: Mon Mar  8 09:02:17 2021
+Last update: Tue Mar  9 09:02:32 2021
