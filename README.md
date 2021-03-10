@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some fortune cookies contain no fortune.
+> 🥠 There's no angry way to say bubbles.
 
-Last update: Tue Mar  9 09:02:32 2021
+Last update: Wed Mar 10 09:03:23 2021
