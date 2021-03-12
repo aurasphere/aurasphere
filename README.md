@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
+> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
 
-Last update: Thu Mar 11 09:04:23 2021
+Last update: Fri Mar 12 09:05:35 2021
