@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You love Chinese food.
+> 🥠 That wasn’t chicken.
 
-Last update: Sat Mar 13 09:06:26 2021
+Last update: Sun Mar 14 09:07:06 2021
