@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 Never forget a friend. Especially if he owes you.
 
-Last update: Sun Mar 14 09:07:06 2021
+Last update: Mon Mar 15 09:08:02 2021
