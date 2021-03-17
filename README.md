@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t let statistics do a number on you.
+> 🥠 You will be hungry again in one hour.
 
-Last update: Tue Mar 16 09:08:11 2021
+Last update: Wed Mar 17 09:09:06 2021
