@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t let statistics do a number on you.
+> 🥠 The greatest danger could be your stupidity.
 
-Last update: Thu Mar 18 09:10:04 2021
+Last update: Fri Mar 19 09:10:25 2021
