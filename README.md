@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 He who throws dirt is losing ground.
 
-Last update: Fri Mar 19 09:10:25 2021
+Last update: Sat Mar 20 09:11:18 2021
