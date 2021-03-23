@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 We don’t know the future, but here’s a cookie.
+> 🥠 Never wear your best pants when you go to fight for freedom.
 
-Last update: Mon Mar 22 09:11:32 2021
+Last update: Tue Mar 23 09:12:08 2021
