@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never wear your best pants when you go to fight for freedom.
+> 🥠 It is a good day to have a good day.
 
-Last update: Tue Mar 23 09:12:08 2021
+Last update: Wed Mar 24 09:12:40 2021
