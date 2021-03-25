@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It is a good day to have a good day.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Wed Mar 24 09:12:40 2021
+Last update: Thu Mar 25 09:13:28 2021
