@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 Never do something halfway. If you do it w
 
-Last update: Thu Mar 25 09:13:28 2021
+Last update: Fri Mar 26 09:13:29 2021
