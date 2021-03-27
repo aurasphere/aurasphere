@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never do something halfway. If you do it w
+> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
 
-Last update: Fri Mar 26 09:13:29 2021
+Last update: Sat Mar 27 09:13:30 2021
