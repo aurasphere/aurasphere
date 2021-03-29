@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Sun Mar 28 09:13:41 2021
+Last update: Mon Mar 29 09:13:53 2021
