@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 Don’t forget you are always on our minds.
 
-Last update: Mon Mar 29 09:13:53 2021
+Last update: Tue Mar 30 09:13:55 2021
