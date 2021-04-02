@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 May you someday be carbon neutral.
+> 🥠 Never do something halfway. If you do it w
 
-Last update: Thu Apr  1 09:15:13 2021
+Last update: Fri Apr  2 09:15:26 2021
