@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
+> 🥠 You love Chinese food.
 
-Last update: Sat Apr  3 09:15:41 2021
+Last update: Sun Apr  4 09:16:10 2021
