@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 18,000 children starve to death every day. They would have loved this cookie.
+> 🥠 You can always find happiness at work on Friday.
 
-Last update: Mon Apr  5 09:17:06 2021
+Last update: Tue Apr  6 09:17:07 2021
