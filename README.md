@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
+> 🥠 Ignore previous cookie.
 
-Last update: Wed Apr  7 09:17:34 2021
+Last update: Thu Apr  8 09:17:47 2021
