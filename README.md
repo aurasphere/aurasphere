@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fortune not found? Abort, Retry, Ignore.
+> 🥠 No snowflake feels responsible in an avalanche.
 
-Last update: Sat Apr 10 09:18:20 2021
+Last update: Sun Apr 11 09:18:34 2021
