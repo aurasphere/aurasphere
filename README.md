@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Enjoy yourself while you can.
+> 🥠 Fail.
 
-Last update: Mon Apr 12 09:19:13 2021
+Last update: Tue Apr 13 09:20:14 2021
