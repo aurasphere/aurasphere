@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fail.
+> 🥠 No snowflake feels responsible in an avalanche.
 
-Last update: Tue Apr 13 09:20:14 2021
+Last update: Wed Apr 14 09:20:48 2021
