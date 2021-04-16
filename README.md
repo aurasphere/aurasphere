@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Actions speak louder than fortune cookies.
+> 🥠 What's the speed of dark?
 
-Last update: Thu Apr 15 09:21:01 2021
+Last update: Fri Apr 16 09:21:21 2021
