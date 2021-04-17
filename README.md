@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 What's the speed of dark?
+> 🥠 Your pet is planning to eat you.
 
-Last update: Fri Apr 16 09:21:21 2021
+Last update: Sat Apr 17 09:22:08 2021
