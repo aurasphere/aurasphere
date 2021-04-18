@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your pet is planning to eat you.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Sat Apr 17 09:22:08 2021
+Last update: Sun Apr 18 09:22:11 2021
