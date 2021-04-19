@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 You can always find happiness at work on Friday.
 
-Last update: Sun Apr 18 09:22:11 2021
+Last update: Mon Apr 19 09:22:37 2021
