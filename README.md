@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You can always find happiness at work on Friday.
+> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
 
-Last update: Mon Apr 19 09:22:37 2021
+Last update: Tue Apr 20 09:23:32 2021
