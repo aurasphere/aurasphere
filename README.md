@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
+> 🥠 Enjoy yourself while you can.
 
-Last update: Tue Apr 20 09:23:32 2021
+Last update: Wed Apr 21 09:24:14 2021
