@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Enjoy yourself while you can.
+> 🥠 18,000 children starve to death every day. They would have loved this cookie.
 
-Last update: Wed Apr 21 09:24:14 2021
+Last update: Thu Apr 22 09:25:12 2021
