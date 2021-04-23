@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 18,000 children starve to death every day. They would have loved this cookie.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Thu Apr 22 09:25:12 2021
+Last update: Fri Apr 23 09:26:17 2021
