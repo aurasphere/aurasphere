@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
+> 🥠 He who laughs at himself never runs out of things to laugh at.
 
-Last update: Tue Apr 27 09:28:00 2021
+Last update: Wed Apr 28 09:28:25 2021
