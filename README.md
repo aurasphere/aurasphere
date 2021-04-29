@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs at himself never runs out of things to laugh at.
+> 🥠 I can't believe you're about to eat my tiny home.
 
-Last update: Wed Apr 28 09:28:25 2021
+Last update: Thu Apr 29 09:28:51 2021
