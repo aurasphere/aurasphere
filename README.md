@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You have rice in your teeth.
+> 🥠 He who throws dirt is losing ground.
 
-Last update: Fri Apr 30 09:29:15 2021
+Last update: Sat May  1 09:29:26 2021
