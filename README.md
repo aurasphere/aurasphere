@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 If you look back, you’ll soon be going that way.
 
-Last update: Mon May  3 09:30:08 2021
+Last update: Tue May  4 09:30:38 2021
