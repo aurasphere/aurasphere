@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
+> 🥠 You will receive a fortune cookie.
 
-Last update: Thu May  6 09:31:12 2021
+Last update: Fri May  7 09:32:19 2021
