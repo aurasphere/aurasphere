@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will receive a fortune cookie.
+> 🥠 How much deeper would the ocean be without sponges?
 
-Last update: Fri May  7 09:32:19 2021
+Last update: Sat May  8 09:32:15 2021
