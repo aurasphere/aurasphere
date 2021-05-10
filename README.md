@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The fortune you seek is in another cookie.
+> 🥠 He who laughs last is laughing at you.
 
-Last update: Sun May  9 09:32:17 2021
+Last update: Mon May 10 09:32:26 2021
