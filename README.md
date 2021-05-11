@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs last is laughing at you.
+> 🥠 If you look back, you’ll soon be going that way.
 
-Last update: Mon May 10 09:32:26 2021
+Last update: Tue May 11 09:33:04 2021
