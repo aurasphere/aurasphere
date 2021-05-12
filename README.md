@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you look back, you’ll soon be going that way.
+> 🥠 What's the speed of dark?
 
-Last update: Tue May 11 09:33:04 2021
+Last update: Wed May 12 09:33:46 2021
