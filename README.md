@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ignore previous cookie.
+> 🥠 I can't believe you're about to eat my tiny home.
 
-Last update: Thu May 13 09:34:00 2021
+Last update: Fri May 14 09:34:28 2021
