@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I can't believe you're about to eat my tiny home.
+> 🥠 Fail.
 
-Last update: Fri May 14 09:34:28 2021
+Last update: Sat May 15 09:34:41 2021
