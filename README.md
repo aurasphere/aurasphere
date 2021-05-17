@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Does not compile.
+> 🥠 Hard work pays off in the future. Laziness pays off now.
 
-Last update: Sun May 16 09:34:41 2021
+Last update: Mon May 17 09:34:55 2021
