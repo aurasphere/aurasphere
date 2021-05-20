@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs last is laughing at you.
+> 🥠 Hard work pays off in the future. Laziness pays off now.
 
-Last update: Wed May 19 09:36:12 2021
+Last update: Thu May 20 09:36:41 2021
