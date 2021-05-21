@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Hard work pays off in the future. Laziness pays off now.
+> 🥠 Three can keep a secret, if you get rid of two.
 
-Last update: Thu May 20 09:36:41 2021
+Last update: Fri May 21 09:37:10 2021
