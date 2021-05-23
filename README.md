@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will receive a fortune cookie.
+> 🥠 Flattery will go far tonight.
 
-Last update: Sat May 22 09:36:55 2021
+Last update: Sun May 23 09:37:54 2021
