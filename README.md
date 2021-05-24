@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Flattery will go far tonight.
+> 🥠 He who throws dirt is losing ground.
 
-Last update: Sun May 23 09:37:54 2021
+Last update: Mon May 24 09:38:52 2021
