@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who throws dirt is losing ground.
+> 🥠 May you someday be carbon neutral.
 
-Last update: Mon May 24 09:38:52 2021
+Last update: Tue May 25 09:39:10 2021
