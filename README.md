@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 May you someday be carbon neutral.
+> 🥠 Don’t forget you are always on our minds.
 
-Last update: Tue May 25 09:39:10 2021
+Last update: Wed May 26 09:39:40 2021
