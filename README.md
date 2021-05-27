@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t forget you are always on our minds.
+> 🥠 I see money in your future. It's not yours though.
 
-Last update: Wed May 26 09:39:40 2021
+Last update: Thu May 27 09:40:12 2021
