@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I see money in your future. It's not yours though.
+> 🥠 Don’t let statistics do a number on you.
 
-Last update: Thu May 27 09:40:12 2021
+Last update: Fri May 28 09:41:00 2021
