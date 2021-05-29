@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t let statistics do a number on you.
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
-Last update: Fri May 28 09:41:00 2021
+Last update: Sat May 29 09:41:50 2021
