@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Help! I am being held prisoner in a fortune cookie factory.
+> 🥠 18,000 children starve to death every day. They would have loved this cookie.
 
-Last update: Sat May 29 09:41:50 2021
+Last update: Sun May 30 09:42:22 2021
