@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will receive a fortune cookie.
+> 🥠 You can always find happiness at work on Friday.
 
-Last update: Mon May 31 09:43:18 2021
+Last update: Tue Jun  1 09:43:17 2021
