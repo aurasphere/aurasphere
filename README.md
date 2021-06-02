@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You can always find happiness at work on Friday.
+> 🥠 Your pet is planning to eat you.
 
-Last update: Tue Jun  1 09:43:17 2021
+Last update: Wed Jun  2 09:43:39 2021
