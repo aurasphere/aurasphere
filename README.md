@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
-Last update: Fri Jun  4 09:45:00 2021
+Last update: Sat Jun  5 09:45:41 2021
