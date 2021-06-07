@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Someone will invite you to a Karaoke party.
+> 🥠 You think it’s a secret, but they know.
 
-Last update: Sun Jun  6 09:45:57 2021
+Last update: Mon Jun  7 09:46:10 2021
