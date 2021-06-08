@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You think it’s a secret, but they know.
+> 🥠 Don’t eat the paper.
 
-Last update: Mon Jun  7 09:46:10 2021
+Last update: Tue Jun  8 09:46:58 2021
