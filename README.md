@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t eat the paper.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Tue Jun  8 09:46:58 2021
+Last update: Wed Jun  9 09:47:25 2021
