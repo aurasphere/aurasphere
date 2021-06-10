@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 A conclusion is simply the place where you got tired of thinking.
 
-Last update: Wed Jun  9 09:47:25 2021
+Last update: Thu Jun 10 09:47:32 2021
