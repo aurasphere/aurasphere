@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A conclusion is simply the place where you got tired of thinking.
+> 🥠 Don’t behave with cold manners.
 
-Last update: Thu Jun 10 09:47:32 2021
+Last update: Fri Jun 11 09:47:49 2021
