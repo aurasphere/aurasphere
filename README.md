@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There is no mistake so great as that of being always right.
+> 🥠 You will receive a fortune cookie.
 
-Last update: Sat Jun 12 09:48:38 2021
+Last update: Sun Jun 13 09:48:36 2021
