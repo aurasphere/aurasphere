@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will receive a fortune cookie.
+> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
 
-Last update: Sun Jun 13 09:48:36 2021
+Last update: Mon Jun 14 09:48:48 2021
