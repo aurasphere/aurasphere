@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
+> 🥠 Your pet is planning to eat you.
 
-Last update: Mon Jun 14 09:48:48 2021
+Last update: Tue Jun 15 09:49:01 2021
