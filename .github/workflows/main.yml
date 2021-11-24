@@ -26,4 +26,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - name: Run a script
-        run: python fortune_cookie/update_cookie.py
+        run: |
+          pip install gitpython
+          python fortune_cookie/update_cookie.py
