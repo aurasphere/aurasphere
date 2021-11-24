@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your pet is planning to eat you.
+> 🥠 You will receive a fortune cookie.
 
-Last update: Tue Jun 15 09:49:01 2021
+Last update: Wed Nov 24 18:03:08 2021
