@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will receive a fortune cookie.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Wed Nov 24 18:03:08 2021
+Last update: Thu Nov 25 05:05:03 2021
