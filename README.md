@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
+> 🥠 No snowflake feels responsible in an avalanche.
 
-Last update: Fri Nov 26 05:04:30 2021
+Last update: Sat Nov 27 05:03:39 2021
