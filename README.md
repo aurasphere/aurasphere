@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 No snowflake feels responsible in an avalanche.
+> 🥠 Don’t eat the paper.
 
-Last update: Sat Nov 27 05:03:39 2021
+Last update: Sun Nov 28 05:03:41 2021
