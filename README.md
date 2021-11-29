@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t eat the paper.
+> 🥠 The road to riches is paved with homework.
 
-Last update: Sun Nov 28 05:03:41 2021
+Last update: Mon Nov 29 05:05:17 2021
