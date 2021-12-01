@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
+> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
 
-Last update: Tue Nov 30 05:03:19 2021
+Last update: Wed Dec  1 05:06:35 2021
