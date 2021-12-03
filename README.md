@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The road to riches is paved with homework.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Thu Dec  2 05:04:54 2021
+Last update: Fri Dec  3 05:05:28 2021
