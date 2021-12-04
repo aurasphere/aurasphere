@@ -2,6 +2,6 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 An alien of some sort will be appearing to you shortly.
 
-Last update: Fri Dec  3 05:05:28 2021
+Last update: Sat Dec  4 05:06:30 2021
