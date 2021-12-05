@@ -2,9 +2,10 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 What's the speed of dark?
+> 🥠 Ask your mom instead of a cookie.
 
-Last update: Sun Dec  5 16:56:37 2021### Let's play! 🎮
+Last update: Sun Dec  5 21:31:26 2021
+
 
 <a href="#"><img src="https://gbaas-readme.herokuapp.com/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
 <br />
