@@ -2,9 +2,10 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ask your mom instead of a cookie.
+> 🥠 You will live long enough to open many fortune cookies.
 
-Last update: Sun Dec  5 21:31:26 2021
+Last update: Sun Dec  5 21:35:29 2021
+
 
 
 ### Let's play! 🎮
