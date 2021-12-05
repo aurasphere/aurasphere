@@ -8,7 +8,7 @@ Last update: Sun Dec  5 03:48:45 2021
 
 ### Let's play! 🎮
 
-<img src="https://gbaas-readme.herokuapp.com/state" />
+<img src="https://gbaas-readme.herokuapp.com/state?" />
 <br />
 
 <img src="img/blank.png" width="30" /> <a
