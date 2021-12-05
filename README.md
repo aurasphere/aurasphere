@@ -7,6 +7,8 @@ I'm Donato, and this is your daily fortune:
 Last update: Sun Dec  5 21:31:26 2021
 
 
+### Let's play! 🎮
+
 <a href="#"><img src="https://gbaas-readme.herokuapp.com/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
 <br />
 
