@@ -2,10 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 An alien of some sort will be appearing to you shortly.
+> 🥠 He who laughs at himself never runs out of things to laugh at.
 
-Last update: Sat Dec  4 05:06:30 2021
-
+Last update: Sun Dec  5 03:48:45 2021
 
 ### Let's play! 🎮
 
