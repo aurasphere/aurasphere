@@ -19,7 +19,7 @@ for i, line in enumerate(lines):
     if line.startswith('> '):
         lines[i] = '> 🥠 ' + fortune
     elif line.startswith('Last update:'):
-        lines[i] = 'Last update: ' + time.ctime() + '\n\n'
+        lines[i] = 'Last update: ' + time.ctime() + '\n'
 
 with open('./README.md', 'w', encoding='utf-8') as f:
     f.writelines(lines)
