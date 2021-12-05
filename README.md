@@ -2,10 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some men dream of fortunes, others dream of cookies.
+> 🥠 This cookie contains 117 calories.
 
-Last update: Sun Dec  5 03:54:10 2021
-### Let's play! 🎮
+Last update: Sun Dec  5 04:19:15 2021### Let's play! 🎮
 
 
 <a href="#"><img src="https://gbaas-readme.herokuapp.com/state?" width="240" height="240" /></a>
