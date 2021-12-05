@@ -20,7 +20,7 @@ Last update: Sun Dec  5 04:20:21 2021
         width="30" /></a><a href="#"><img src="img/blank.png" width="30" /></a><a href="#"><img src="img/blank.png" width="30" /></a><a href="#"><img
     src="img/blank.png" width="30" /></a><a href="https://gbaas-readme.herokuapp.com/buttons/B?callback=https://github.com/aurasphere"><img src="img/B.png" width="30" /></a> <a
     href="https://gbaas-readme.herokuapp.com/buttons/A?callback=https://github.com/aurasphere"><img src="img/A.png" width="30" /></a>
-<br><a href="https://gbaas-readme.herokuapp.com/buttons/down?callback=https://github.com/aurasphere"><a href="#"><img src="img/blank.png" width="30" /></a><img src="img/down.png" width="30" /></a><a href="#">
+<br><a href="#"><img src="img/blank.png" width="30" /></a><a href="https://gbaas-readme.herokuapp.com/buttons/down?callback=https://github.com/aurasphere"><img src="img/down.png" width="30" /></a><a href="#">
 <br><img src="img/blank.png" width="30" /></a><a href="#"><img src="img/blank.png" width="30" /></a><a
     href="https://gbaas-readme.herokuapp.com/buttons/select?callback=https://github.com/aurasphere"><img src="img/select.png"
         height="30" /></a> <a href="https://gbaas-readme.herokuapp.com/buttons/start?callback=https://github.com/aurasphere"><img
