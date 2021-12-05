@@ -2,10 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Does not compile.
+> 🥠 That wasn’t chicken.
 
-Last update: Sun Dec  5 04:27:17 2021
-
+Last update: Sun Dec  5 05:06:34 2021
 ### Let's play! 🎮
 
 <a href="#"><img src="https://gbaas-readme.herokuapp.com/state?" width="240" height="240" /></a>
