@@ -2,10 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
+> 🥠 Actions speak louder than fortune cookies.
 
-Last update: Sun Dec  5 04:19:15 2021
-
+Last update: Sun Dec  5 04:20:21 2021
 
 
 ### Let's play! 🎮
