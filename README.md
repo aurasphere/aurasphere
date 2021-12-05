@@ -2,10 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Actions speak louder than fortune cookies.
+> 🥠 Does not compile.
 
-Last update: Sun Dec  5 04:20:21 2021
-
+Last update: Sun Dec  5 04:27:17 2021
 
 ### Let's play! 🎮
 
