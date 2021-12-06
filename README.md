@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I see money in your future. It's not yours though.
+> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
 
-Last update: Sun Dec  5 21:35:55 2021
+Last update: Mon Dec  6 05:06:59 2021
 
 
 
