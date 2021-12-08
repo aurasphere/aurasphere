@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You can always find happiness at work on Friday.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
-Last update: Tue Dec  7 05:07:01 2021
+Last update: Wed Dec  8 05:06:06 2021
 
 
 
