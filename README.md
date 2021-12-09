@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fortune not found? Abort, Retry, Ignore.
+> 🥠 Do not mistake temptation for opportunity.
 
-Last update: Wed Dec  8 05:06:06 2021
+Last update: Thu Dec  9 05:06:10 2021
 
 
 
