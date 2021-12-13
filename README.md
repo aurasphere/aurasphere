@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
+> 🥠 Your pet is planning to eat you.
 
-Last update: Sun Dec 12 05:04:34 2021
+Last update: Mon Dec 13 05:05:06 2021
 
 
 
