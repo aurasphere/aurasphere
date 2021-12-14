@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your pet is planning to eat you.
+> 🥠 Never wear your best pants when you go to fight for freedom.
 
-Last update: Mon Dec 13 05:05:06 2021
+Last update: Tue Dec 14 05:05:24 2021
 
 
 
