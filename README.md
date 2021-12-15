@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never wear your best pants when you go to fight for freedom.
+> 🥠 Some fortune cookies contain no fortune.
 
-Last update: Tue Dec 14 05:05:24 2021
+Last update: Wed Dec 15 05:05:56 2021
 
 
 
