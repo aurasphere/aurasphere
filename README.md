@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Fri Dec 17 05:05:13 2021
+Last update: Sat Dec 18 05:07:01 2021
 
 
 
