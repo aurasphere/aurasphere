@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 He who laughs last is laughing at you.
 
-Last update: Sat Dec 18 05:07:01 2021
+Last update: Sun Dec 19 05:07:18 2021
 
 
 
