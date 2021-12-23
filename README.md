@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Enjoy yourself while you can.
+> 🥠 Your pet is planning to eat you.
 
-Last update: Wed Dec 22 05:07:12 2021
+Last update: Thu Dec 23 05:07:35 2021
 
 
 
