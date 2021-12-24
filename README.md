@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your pet is planning to eat you.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Thu Dec 23 05:07:35 2021
+Last update: Fri Dec 24 05:07:07 2021
 
 
 
