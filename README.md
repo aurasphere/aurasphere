@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 May you someday be carbon neutral.
 
-Last update: Fri Dec 24 05:07:07 2021
+Last update: Sat Dec 25 05:06:28 2021
 
 
 
