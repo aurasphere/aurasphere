@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 May you someday be carbon neutral.
+> 🥠 Ask your mom instead of a cookie.
 
-Last update: Sat Dec 25 05:06:28 2021
+Last update: Sun Dec 26 05:06:30 2021
 
 
 
