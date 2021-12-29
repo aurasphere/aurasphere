@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A cynic is only a frustrated optimist.
+> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
 
-Last update: Tue Dec 28 05:07:10 2021
+Last update: Wed Dec 29 05:07:07 2021
 
 
 
