@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You love Chinese food.
+> 🥠 Flattery will go far tonight.
 
-Last update: Fri Dec 31 05:07:14 2021
+Last update: Sat Jan  1 05:07:53 2022
 
 
 
