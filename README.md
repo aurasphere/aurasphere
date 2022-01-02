@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Flattery will go far tonight.
+> 🥠 It is a good day to have a good day.
 
-Last update: Sat Jan  1 05:07:53 2022
+Last update: Sun Jan  2 05:07:31 2022
 
 
 
