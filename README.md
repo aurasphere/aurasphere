@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never forget a friend. Especially if he owes you.
+> 🥠 You think it’s a secret, but they know.
 
-Last update: Tue Jan  4 05:07:47 2022
+Last update: Wed Jan  5 05:08:38 2022
 
 
 
