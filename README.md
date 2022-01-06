@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You think it’s a secret, but they know.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Wed Jan  5 05:08:38 2022
+Last update: Thu Jan  6 05:08:20 2022
 
 
 
