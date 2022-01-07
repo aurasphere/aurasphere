@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
+> 🥠 An alien of some sort will be appearing to you shortly.
 
-Last update: Thu Jan  6 05:08:20 2022
+Last update: Fri Jan  7 05:07:44 2022
 
 
 
