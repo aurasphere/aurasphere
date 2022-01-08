@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 An alien of some sort will be appearing to you shortly.
+> 🥠 A cynic is only a frustrated optimist.
 
-Last update: Fri Jan  7 05:07:44 2022
+Last update: Sat Jan  8 05:07:32 2022
 
 
 
