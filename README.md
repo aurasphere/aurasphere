@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A cynic is only a frustrated optimist.
+> 🥠 What's the speed of dark?
 
-Last update: Sat Jan  8 05:07:32 2022
+Last update: Sun Jan  9 05:07:39 2022
 
 
 
