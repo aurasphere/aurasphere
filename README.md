@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 What's the speed of dark?
+> 🥠 Ask your mom instead of a cookie.
 
-Last update: Sun Jan  9 05:07:39 2022
+Last update: Mon Jan 10 05:08:28 2022
 
 
 
