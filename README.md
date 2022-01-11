@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ask your mom instead of a cookie.
+> 🥠 Your pet is planning to eat you.
 
-Last update: Mon Jan 10 05:08:28 2022
+Last update: Tue Jan 11 05:07:14 2022
 
 
 
