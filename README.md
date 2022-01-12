@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your pet is planning to eat you.
+> 🥠 You will be hungry again in one hour.
 
-Last update: Tue Jan 11 05:07:14 2022
+Last update: Wed Jan 12 05:08:00 2022
 
 
 
