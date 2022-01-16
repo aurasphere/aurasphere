@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ask not what your fortune cookie can do for you but what you can do for your fortune cookie.
+> 🥠 It’s about time I got out of that cookie.
 
-Last update: Sat Jan 15 05:07:43 2022
+Last update: Sun Jan 16 05:07:40 2022
 
 
 
