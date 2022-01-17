@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
+> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
 
-Last update: Sun Jan 16 05:07:40 2022
+Last update: Mon Jan 17 05:09:03 2022
 
 
 
