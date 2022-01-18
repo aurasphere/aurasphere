@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
+> 🥠 What's the speed of dark?
 
-Last update: Mon Jan 17 05:09:03 2022
+Last update: Tue Jan 18 05:08:37 2022
 
 
 
