@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 What's the speed of dark?
+> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
 
-Last update: Tue Jan 18 05:08:37 2022
+Last update: Wed Jan 19 05:04:07 2022
 
 
 
