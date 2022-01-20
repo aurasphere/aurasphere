@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
+> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
 
-Last update: Wed Jan 19 05:04:07 2022
+Last update: Thu Jan 20 05:06:11 2022
 
 
 
