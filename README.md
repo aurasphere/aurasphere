@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
+> 🥠 You love Chinese food.
 
-Last update: Thu Jan 20 05:06:11 2022
+Last update: Fri Jan 21 05:04:12 2022
 
 
 
