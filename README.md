@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You love Chinese food.
+> 🥠 The greatest danger could be your stupidity.
 
-Last update: Fri Jan 21 05:04:12 2022
+Last update: Sat Jan 22 05:04:09 2022
 
 
 
