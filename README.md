@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 The road to riches is paved with homework.
 
-Last update: Sat Jan 22 05:04:09 2022
+Last update: Sun Jan 23 05:04:15 2022
 
 
 
