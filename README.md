@@ -2,9 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The road to riches is paved with homework.
-
-Last update: Sun Jan 23 05:04:15 2022
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
+Last update: Mon Jan 24 05:06:05 2022
 
 
 
