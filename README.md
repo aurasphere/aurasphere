@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
-Last update: Fri Jan 28 05:04:09 2022
+> 🥠 He who laughs at himself never runs out of things to laugh at.
+Last update: Sat Jan 29 05:03:55 2022
 
 
 
