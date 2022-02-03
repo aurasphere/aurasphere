@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
-Last update: Wed Feb  2 05:03:50 2022
+> 🥠 Ask your mom instead of a cookie.
+Last update: Thu Feb  3 05:04:24 2022
 
 
 
