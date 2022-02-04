@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ask your mom instead of a cookie.
-Last update: Thu Feb  3 05:04:24 2022
+> 🥠 Someone will invite you to a Karaoke party.
+Last update: Fri Feb  4 05:03:19 2022
 
 
 
