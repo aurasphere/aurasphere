@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 All fortunes are wrong except this one.
-Last update: Sun Feb  6 05:03:50 2022
+> 🥠 Some fortune cookies contain no fortune.
+Last update: Mon Feb  7 05:04:13 2022
 
 
 
