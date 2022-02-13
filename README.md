@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
-Last update: Sat Feb 12 05:04:02 2022
+> 🥠 The greatest danger could be your stupidity.
+Last update: Sun Feb 13 05:03:51 2022
 
 
 
