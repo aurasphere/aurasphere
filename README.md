@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
-Last update: Wed Feb 16 05:04:24 2022
+> 🥠 Don’t eat the paper.
+Last update: Thu Feb 17 05:05:15 2022
 
 
 
