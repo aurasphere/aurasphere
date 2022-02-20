@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
-Last update: Sat Feb 19 05:04:45 2022
+> 🥠 Three can keep a secret, if you get rid of two.
+Last update: Sun Feb 20 05:06:13 2022
 
 
 
