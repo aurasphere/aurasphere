@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Three can keep a secret, if you get rid of two.
-Last update: Sun Feb 20 05:06:13 2022
+> 🥠 Flattery will go far tonight.
+Last update: Mon Feb 21 05:05:59 2022
 
 
 
