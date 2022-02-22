@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Flattery will go far tonight.
-Last update: Mon Feb 21 05:05:59 2022
+> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
+Last update: Tue Feb 22 05:05:58 2022
 
 
 
