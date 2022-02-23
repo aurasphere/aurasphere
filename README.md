@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
-Last update: Tue Feb 22 05:05:58 2022
+> 🥠 Ignore previous cookie.
+Last update: Wed Feb 23 05:06:02 2022
 
 
 
