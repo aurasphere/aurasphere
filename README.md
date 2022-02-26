@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
-Last update: Fri Feb 25 05:06:15 2022
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
+Last update: Sat Feb 26 05:05:55 2022
 
 
 
