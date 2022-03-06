@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The road to riches is paved with homework.
-Last update: Sat Mar  5 05:04:42 2022
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
+Last update: Sun Mar  6 05:07:33 2022
 
 
 
