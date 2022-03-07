@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Help! I am being held prisoner in a fortune cookie factory.
-Last update: Sun Mar  6 05:07:33 2022
+> 🥠 The greatest danger could be your stupidity.
+Last update: Mon Mar  7 05:07:11 2022
 
 
 
