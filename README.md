@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
-Last update: Mon Mar  7 05:07:11 2022
+> 🥠 The fortune you seek is in another cookie.
+Last update: Tue Mar  8 05:05:52 2022
 
 
 
