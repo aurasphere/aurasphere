@@ -2,8 +2,8 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 All fortunes are wrong except this one.
-Last update: Fri Mar 11 05:05:57 2022
+> 🥠 Never do something halfway. If you do it w
+Last update: Sat Mar 12 05:05:04 2022
 
 
 
