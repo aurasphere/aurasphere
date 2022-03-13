@@ -2,8 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never do something halfway. If you do it w
-Last update: Sat Mar 12 05:05:04 2022
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.Last update: Sun Mar 13 05:08:42 2022
 
 
 
