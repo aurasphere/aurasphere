@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs last is laughing at you.
+> 🥠 The road to riches is paved with homework.
 
 
 
