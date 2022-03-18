@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 18,000 children starve to death every day. They would have loved this cookie.
+> 🥠 Change is inevitable, except for vending machines.
 
 
 
