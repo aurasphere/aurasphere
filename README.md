@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Change is inevitable, except for vending machines.
+> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
 
 
 
