@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
+> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
 
 
 
