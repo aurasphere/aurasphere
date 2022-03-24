@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Someone will invite you to a Karaoke party.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
 
 
