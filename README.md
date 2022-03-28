@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
+> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
 
 
 
