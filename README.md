@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
+> 🥠 You will live long enough to open many fortune cookies.
 
 
 
