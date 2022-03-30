@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will live long enough to open many fortune cookies.
+> 🥠 I see money in your future. It's not yours though.
 
 
 
