@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I see money in your future. It's not yours though.
+> 🥠 There's no angry way to say bubbles.
 
 
 
