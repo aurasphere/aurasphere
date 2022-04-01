@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There's no angry way to say bubbles.
+> 🥠 Don’t behave with cold manners.
 
 
 
