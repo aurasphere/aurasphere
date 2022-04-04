@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
+> 🥠 Hard work pays off in the future. Laziness pays off now.
 
 
 
