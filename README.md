@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
 
 
