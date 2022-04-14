@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I cannot help you, for I am just a cookie.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
 
 
