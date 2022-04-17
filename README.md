@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
 
 
