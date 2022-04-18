@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fortune not found? Abort, Retry, Ignore.
+> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
 
 
 
