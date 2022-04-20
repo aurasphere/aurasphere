@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Change is inevitable, except for vending machines.
+> 🥠 A cynic is only a frustrated optimist.
 
 
 
