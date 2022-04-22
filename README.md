@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You have rice in your teeth.
+> 🥠 Don’t let statistics do a number on you.
 
 
 
