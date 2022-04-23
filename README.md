@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t let statistics do a number on you.
+> 🥠 Never wear your best pants when you go to fight for freedom.
 
 
 
