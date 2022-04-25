@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never wear your best pants when you go to fight for freedom.
+> 🥠 Someone will invite you to a Karaoke party.
 
 
 
