@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who throws dirt is losing ground.
+> 🥠 A cynic is only a frustrated optimist.
 
 
 
