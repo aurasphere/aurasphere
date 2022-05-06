@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Actions speak louder than fortune cookies.
+> 🥠 Don’t behave with cold manners.
 
 
 
