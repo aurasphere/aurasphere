@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fail.
+> 🥠 You will die alone and poorly dressed.
 
 
 
