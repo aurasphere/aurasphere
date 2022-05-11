@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 How much deeper would the ocean be without sponges?
 
 
 
