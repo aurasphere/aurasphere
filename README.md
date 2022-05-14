@@ -2,8 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 How much deeper would the ocean be without sponges?
-
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
 
 ### Let's play! 🎮
