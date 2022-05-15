@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
+> 🥠 Don’t forget you are always on our minds.
 
 
 ### Let's play! 🎮
