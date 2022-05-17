@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 All fortunes are wrong except this one.
+> 🥠 I cannot help you, for I am just a cookie.
 
 
 ### Let's play! 🎮
