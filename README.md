@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some men dream of fortunes, others dream of cookies.
+> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
 
 
 ### Let's play! 🎮
