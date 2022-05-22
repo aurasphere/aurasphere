@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You can always find happiness at work on Friday.
+> 🥠 May you someday be carbon neutral.
 
 
 ### Let's play! 🎮
