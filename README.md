@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 May you someday be carbon neutral.
+> 🥠 You think it’s a secret, but they know.
 
 
 ### Let's play! 🎮
