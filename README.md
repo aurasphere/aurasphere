@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You think it’s a secret, but they know.
+> 🥠 If you look back, you’ll soon be going that way.
 
 
 ### Let's play! 🎮
