@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you look back, you’ll soon be going that way.
+> 🥠 A cynic is only a frustrated optimist.
 
 
 ### Let's play! 🎮
