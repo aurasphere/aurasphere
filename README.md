@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A cynic is only a frustrated optimist.
+> 🥠 Don’t behave with cold manners.
 
 
 ### Let's play! 🎮
