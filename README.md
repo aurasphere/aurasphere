@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ignore previous cookie.
+> 🥠 Never forget a friend. Especially if he owes you.
 
 
 ### Let's play! 🎮
