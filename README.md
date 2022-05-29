@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never forget a friend. Especially if he owes you.
+> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
 
 
 ### Let's play! 🎮
