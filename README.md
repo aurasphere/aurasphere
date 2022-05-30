@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
+> 🥠 You will live long enough to open many fortune cookies.
 
 
 ### Let's play! 🎮
