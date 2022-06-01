@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never do something halfway. If you do it w
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
 
 ### Let's play! 🎮
