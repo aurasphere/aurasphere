@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will be hungry again in one hour.
+> 🥠 Three can keep a secret, if you get rid of two.
 
 
 ### Let's play! 🎮
