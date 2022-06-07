@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You love Chinese food.
+> 🥠 We don’t know the future, but here’s a cookie.
 
 
 ### Let's play! 🎮
