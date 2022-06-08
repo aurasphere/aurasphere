@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 We don’t know the future, but here’s a cookie.
+> 🥠 You will be hungry again in one hour.
 
 
 ### Let's play! 🎮
