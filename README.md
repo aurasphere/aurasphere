@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who throws dirt is losing ground.
+> 🥠 You will be hungry again in one hour.
 
 
 ### Let's play! 🎮
