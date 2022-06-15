@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I am worth a fortune.
+> 🥠 The greatest danger could be your stupidity.
 
 
 ### Let's play! 🎮
