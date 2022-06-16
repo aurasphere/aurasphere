@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 You can always find happiness at work on Friday.
 
 
 ### Let's play! 🎮
