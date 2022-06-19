@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 What's the speed of dark?
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
 
 ### Let's play! 🎮
