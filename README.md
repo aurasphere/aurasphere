@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It is a good day to have a good day.
+> 🥠 Your pet is planning to eat you.
 
 
 ### Let's play! 🎮
