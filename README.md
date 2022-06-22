@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your pet is planning to eat you.
+> 🥠 He who laughs at himself never runs out of things to laugh at.
 
 
 ### Let's play! 🎮
