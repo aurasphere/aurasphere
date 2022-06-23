@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs at himself never runs out of things to laugh at.
+> 🥠 May you someday be carbon neutral.
 
 
 ### Let's play! 🎮
