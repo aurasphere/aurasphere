@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 May you someday be carbon neutral.
+> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
 
 
 ### Let's play! 🎮
