@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t eat the paper.
+> 🥠 It’s about time I got out of that cookie.
 
 
 ### Let's play! 🎮
