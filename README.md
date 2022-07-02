@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Flattery will go far tonight.
+> 🥠 I am worth a fortune.
 
 
 ### Let's play! 🎮
