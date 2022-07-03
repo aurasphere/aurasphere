@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I am worth a fortune.
+> 🥠 It’s about time I got out of that cookie.
 
 
 ### Let's play! 🎮
