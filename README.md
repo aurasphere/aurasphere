@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
+> 🥠 The greatest danger could be your stupidity.
 
 
 ### Let's play! 🎮
