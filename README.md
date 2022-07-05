@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 Change is inevitable, except for vending machines.
 
 
 ### Let's play! 🎮
