@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 An alien of some sort will be appearing to you shortly.
+> 🥠 It’s about time I got out of that cookie.
 
 
 ### Let's play! 🎮
