@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You love Chinese food.
+> 🥠 That wasn’t chicken.
 
 
 ### Let's play! 🎮
