@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
 
 ### Let's play! 🎮
