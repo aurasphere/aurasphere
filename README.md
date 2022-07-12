@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Help! I am being held prisoner in a fortune cookie factory.
+> 🥠 Do not mistake temptation for opportunity.
 
 
 ### Let's play! 🎮
