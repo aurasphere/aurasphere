@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A cynic is only a frustrated optimist.
+> 🥠 Never wear your best pants when you go to fight for freedom.
 
 
 ### Let's play! 🎮
