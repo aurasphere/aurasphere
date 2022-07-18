@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never wear your best pants when you go to fight for freedom.
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
 
 ### Let's play! 🎮
