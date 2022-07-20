@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
+> 🥠 How much deeper would the ocean be without sponges?
 
 
 ### Let's play! 🎮
