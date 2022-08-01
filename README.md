@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs last is laughing at you.
+> 🥠 You will die alone and poorly dressed.
 
 
 ### Let's play! 🎮
