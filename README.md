@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 What's the speed of dark?
+> 🥠 Change is inevitable, except for vending machines.
 
 
 ### Let's play! 🎮
