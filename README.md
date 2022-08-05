@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It is a good day to have a good day.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
 
 ### Let's play! 🎮
