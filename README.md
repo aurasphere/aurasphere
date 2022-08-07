@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
 
 ### Let's play! 🎮
