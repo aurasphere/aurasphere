@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ask your mom instead of a cookie.
+> 🥠 The fortune you seek is in another cookie.
 
 
 ### Let's play! 🎮
