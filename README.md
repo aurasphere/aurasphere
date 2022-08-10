@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The fortune you seek is in another cookie.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
 
 ### Let's play! 🎮
