@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 
 
 ### Let's play! 🎮
