@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
+> 🥠 Change is inevitable, except for vending machines.
 
 
 ### Let's play! 🎮
