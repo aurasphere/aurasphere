@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Run.
+> 🥠 18,000 children starve to death every day. They would have loved this cookie.
 
 
 ### Let's play! 🎮
