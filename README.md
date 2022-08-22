@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 No snowflake feels responsible in an avalanche.
+> 🥠 Ignore previous cookie.
 
 
 ### Let's play! 🎮
