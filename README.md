@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ignore previous cookie.
+> 🥠 He who laughs last is laughing at you.
 
 
 ### Let's play! 🎮
