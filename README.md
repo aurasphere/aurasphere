@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs last is laughing at you.
+> 🥠 You will marry a professional athlete - if competitive eating can be considered a sport.
 
 
 ### Let's play! 🎮
