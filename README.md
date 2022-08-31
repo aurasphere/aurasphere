@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I am worth a fortune.
+> 🥠 A closed mouth gathers no feet.
 
 
 ### Let's play! 🎮
