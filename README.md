@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
 
 ### Let's play! 🎮
