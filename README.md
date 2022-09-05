@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 He who throws dirt is losing ground.
 
 
 ### Let's play! 🎮
