@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 How much deeper would the ocean be without sponges?
+> 🥠 Flattery will go far tonight.
 
 
 ### Let's play! 🎮
