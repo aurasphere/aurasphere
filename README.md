@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
+> 🥠 Do not mistake temptation for opportunity.
 
 
 ### Let's play! 🎮
