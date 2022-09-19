@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
 
 ### Let's play! 🎮
