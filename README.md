@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Help! I am being held prisoner in a fortune cookie factory.
+> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
 
 
 ### Let's play! 🎮
