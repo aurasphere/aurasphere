@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I am worth a fortune.
+> 🥠 If you look back, you’ll soon be going that way.
 
 
 ### Let's play! 🎮
