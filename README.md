@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you look back, you’ll soon be going that way.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
 
 ### Let's play! 🎮
