@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
+> 🥠 He who laughs at himself never runs out of things to laugh at.
 
 
 ### Let's play! 🎮
