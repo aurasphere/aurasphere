@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 You will live long enough to open many fortune cookies.
 
 
 ### Let's play! 🎮
