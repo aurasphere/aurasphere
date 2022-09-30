@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will live long enough to open many fortune cookies.
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
 
 ### Let's play! 🎮
