@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
+> 🥠 There is no mistake so great as that of being always right.
 
 
 ### Let's play! 🎮
