@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t forget you are always on our minds.
+> 🥠 Do not mistake temptation for opportunity.
 
 
 ### Let's play! 🎮
