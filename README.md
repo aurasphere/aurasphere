@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 Ask your mom instead of a cookie.
 
 
 ### Let's play! 🎮
