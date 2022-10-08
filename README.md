@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs last is laughing at you.
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
 
 ### Let's play! 🎮
