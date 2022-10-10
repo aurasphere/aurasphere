@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
 
 
 ### Let's play! 🎮
