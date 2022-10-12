@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The road to riches is paved with homework.
+> 🥠 Enjoy yourself while you can.
 
 
 ### Let's play! 🎮
