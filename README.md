@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Enjoy yourself while you can.
+> 🥠 A conclusion is simply the place where you got tired of thinking.
 
 
 ### Let's play! 🎮
