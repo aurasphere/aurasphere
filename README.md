@@ -2,8 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A conclusion is simply the place where you got tired of thinking.
-
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
 ### Let's play! 🎮
 
