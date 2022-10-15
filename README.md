@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
+> 🥠 You can always find happiness at work on Friday.
 
 ### Let's play! 🎮
 
