@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You can always find happiness at work on Friday.
+> 🥠 I cannot help you, for I am just a cookie.
 
 ### Let's play! 🎮
 
