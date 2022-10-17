@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I cannot help you, for I am just a cookie.
+> 🥠 Does not compile.
 
 ### Let's play! 🎮
 
