@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will marry a professional athlete - if competitive eating can be considered a sport.
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
 ### Let's play! 🎮
 
