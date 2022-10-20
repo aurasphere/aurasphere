@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
+> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
 
 ### Let's play! 🎮
 
