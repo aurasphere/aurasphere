@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
+> 🥠 You will marry a professional athlete - if competitive eating can be considered a sport.
 
 ### Let's play! 🎮
 
