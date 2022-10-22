@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will marry a professional athlete - if competitive eating can be considered a sport.
+> 🥠 You love Chinese food.
 
 ### Let's play! 🎮
 
