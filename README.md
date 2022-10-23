@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You love Chinese food.
+> 🥠 No snowflake feels responsible in an avalanche.
 
 ### Let's play! 🎮
 
