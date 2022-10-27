@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There is no mistake so great as that of being always right.
+> 🥠 Run.
 
 ### Let's play! 🎮
 
