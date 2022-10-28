@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Run.
+> 🥠 Change is inevitable, except for vending machines.
 
 ### Let's play! 🎮
 
