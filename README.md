@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 Actions speak louder than fortune cookies.
 
 ### Let's play! 🎮
 
