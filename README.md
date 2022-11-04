@@ -22,3 +22,6 @@ I'm Donato, and this is your daily fortune:
     href="https://gbaas-readme.herokuapp.com/buttons/select?callback=https://github.com/aurasphere"><img src="img/select.png"
         height="30" /></a> <a href="https://gbaas-readme.herokuapp.com/buttons/start?callback=https://github.com/aurasphere"><img
         src="img/start.png" height="30" /></a>
+        
+### Join my Telegram group! 
+[![Telegram](https://img.shields.io/badge/-telegram-a?color=white&logo=telegram)](https://t.me/+Wy1DPTLyFGg0OWE0) 
