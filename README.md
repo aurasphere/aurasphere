@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some men dream of fortunes, others dream of cookies.
+> 🥠 An alien of some sort will be appearing to you shortly.
 
 ### Let's play! 🎮
 
