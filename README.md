@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never wear your best pants when you go to fight for freedom.
+> 🥠 Do not mistake temptation for opportunity.
 
 ### Let's play! 🎮
 
