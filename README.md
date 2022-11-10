@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 How much deeper would the ocean be without sponges?
 
 ### Let's play! 🎮
 
