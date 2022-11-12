@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will be hungry again in one hour.
+> 🥠 Don’t let statistics do a number on you.
 
 ### Let's play! 🎮
 
