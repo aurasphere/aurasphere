@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t let statistics do a number on you.
+> 🥠 Someone will invite you to a Karaoke party.
 
 ### Let's play! 🎮
 
