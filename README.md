@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Someone will invite you to a Karaoke party.
+> 🥠 He who laughs last is laughing at you.
 
 ### Let's play! 🎮
 
