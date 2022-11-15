@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs last is laughing at you.
+> 🥠 A cynic is only a frustrated optimist.
 
 ### Let's play! 🎮
 
