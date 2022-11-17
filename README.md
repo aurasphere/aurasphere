@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A cynic is only a frustrated optimist.
+> 🥠 This cookie contains 117 calories.
 
 ### Let's play! 🎮
 
