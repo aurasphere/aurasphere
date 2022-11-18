@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
+> 🥠 You will marry a professional athlete - if competitive eating can be considered a sport.
 
 ### Let's play! 🎮
 
