@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 We don’t know the future, but here’s a cookie.
+> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
 
 ### Let's play! 🎮
 
