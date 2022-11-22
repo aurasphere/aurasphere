@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some fortune cookies contain no fortune.
+> 🥠 Actions speak louder than fortune cookies.
 
 ### Let's play! 🎮
 
