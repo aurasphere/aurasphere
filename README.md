@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will live long enough to open many fortune cookies.
+> 🥠 A cynic is only a frustrated optimist.
 
 ### Let's play! 🎮
 
