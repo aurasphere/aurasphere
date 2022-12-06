@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some men dream of fortunes, others dream of cookies.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
 ### Let's play! 🎮
 
