@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The road to riches is paved with homework.
+> 🥠 Some fortune cookies contain no fortune.
 
 ### Let's play! 🎮
 
