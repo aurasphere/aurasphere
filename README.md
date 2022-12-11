@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I am worth a fortune.
+> 🥠 Hard work pays off in the future. Laziness pays off now.
 
 ### Let's play! 🎮
 
