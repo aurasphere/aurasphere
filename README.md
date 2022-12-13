@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Three can keep a secret, if you get rid of two.
+> 🥠 That wasn’t chicken.
 
 ### Let's play! 🎮
 
