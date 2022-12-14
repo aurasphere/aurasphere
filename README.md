@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
 
 ### Let's play! 🎮
 
