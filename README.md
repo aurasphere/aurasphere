@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fail.
+> 🥠 That wasn’t chicken.
 
 ### Let's play! 🎮
 
