@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 You will live long enough to open many fortune cookies.
 
 ### Let's play! 🎮
 
