@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will live long enough to open many fortune cookies.
+> 🥠 The greatest danger could be your stupidity.
 
 ### Let's play! 🎮
 
