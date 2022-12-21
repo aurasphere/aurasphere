@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Actions speak louder than fortune cookies.
+> 🥠 Never do something halfway. If you do it w
 
 ### Let's play! 🎮
 
