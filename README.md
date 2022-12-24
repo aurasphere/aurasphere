@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 The greatest danger could be your stupidity.
 
 ### Let's play! 🎮
 
