@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
+> 🥠 Never forget a friend. Especially if he owes you.
 
 ### Let's play! 🎮
 
