@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never forget a friend. Especially if he owes you.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
 ### Let's play! 🎮
 
