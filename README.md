@@ -2,8 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fortune not found? Abort, Retry, Ignore.
-
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 ### Let's play! 🎮
 
 <a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
