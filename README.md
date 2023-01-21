@@ -22,5 +22,7 @@ I'm Donato, and this is your daily fortune:
         height="30" /></a> <a href="https://gbaas-readme.fly.dev/buttons/start?callback=https://github.com/aurasphere"><img
         src="img/start.png" height="30" /></a>
         
-### Join my Telegram group! 
-[![Telegram](https://img.shields.io/badge/-telegram-a?color=white&logo=telegram)](https://t.me/+Wy1DPTLyFGg0OWE0) 
+### Join my Telegram group and connect with me on LinkedIn to stay updated!
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+Wy1DPTLyFGg0OWE0) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donato-rimenti-764876132/) 
+
