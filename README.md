@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
+> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
 ### Let's play! 🎮
 
 <a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
