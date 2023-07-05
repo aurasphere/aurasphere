@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Help! I am being held prisoner in a fortune cookie factory.
+> 🥠 You have rice in your teeth.
 ### Let's play! 🎮
 
 <a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
