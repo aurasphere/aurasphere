@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.### Let's play! 🎮
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
 <a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
 <br />
