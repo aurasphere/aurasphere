@@ -2,8 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
-
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 <a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
 <br />
 
