@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
 <a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
 <br />
