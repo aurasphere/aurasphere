@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 18,000 children starve to death every day. They would have loved this cookie.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 <a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
 <br />
 
