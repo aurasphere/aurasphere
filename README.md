@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
+> 🥠 Don’t behave with cold manners.
 <a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
 <br />
 
