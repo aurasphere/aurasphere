@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will live long enough to open many fortune cookies.
+> 🥠 Hard work pays off in the future. Laziness pays off now.
 <a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
 <br />
 
