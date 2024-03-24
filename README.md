@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Hard work pays off in the future. Laziness pays off now.
+> 🥠 An alien of some sort will be appearing to you shortly.
 <a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
 <br />
 
