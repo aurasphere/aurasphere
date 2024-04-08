@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.<a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
+> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
