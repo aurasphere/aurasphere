@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
+> 🥠 Ask your mom instead of a cookie.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
