@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ask your mom instead of a cookie.
+> 🥠 I cannot help you, for I am just a cookie.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
