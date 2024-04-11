@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I cannot help you, for I am just a cookie.
+> 🥠 You will receive a fortune cookie.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
