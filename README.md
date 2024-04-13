@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 Flattery will go far tonight.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
