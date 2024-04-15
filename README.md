@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
+> 🥠 All fortunes are wrong except this one.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
