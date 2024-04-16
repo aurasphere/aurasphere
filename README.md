@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 All fortunes are wrong except this one.
+> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
