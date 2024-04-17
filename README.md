@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
+> 🥠 You think it’s a secret, but they know.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
