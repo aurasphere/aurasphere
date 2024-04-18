@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You think it’s a secret, but they know.
+> 🥠 You are not illiterate.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
