@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 He who throws dirt is losing ground.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
