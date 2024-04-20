@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who throws dirt is losing ground.
+> 🥠 Some fortune cookies contain no fortune.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
