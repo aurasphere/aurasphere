@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some fortune cookies contain no fortune.
+> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
