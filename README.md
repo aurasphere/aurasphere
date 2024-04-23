@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some fortune cookies contain no fortune.
+> 🥠 A closed mouth gathers no feet.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
