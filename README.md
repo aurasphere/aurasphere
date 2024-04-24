@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 Ignore previous cookie.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
