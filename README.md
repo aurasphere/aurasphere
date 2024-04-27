@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 What's the speed of dark?
+> 🥠 A conclusion is simply the place where you got tired of thinking.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
