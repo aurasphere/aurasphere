@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A conclusion is simply the place where you got tired of thinking.
+> 🥠 We don’t know the future, but here’s a cookie.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
