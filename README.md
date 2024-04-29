@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 We don’t know the future, but here’s a cookie.
+> 🥠 You are not illiterate.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
