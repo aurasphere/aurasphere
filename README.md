@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 You will die alone and poorly dressed.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
