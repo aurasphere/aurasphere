@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 Do not mistake temptation for opportunity.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
