@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
