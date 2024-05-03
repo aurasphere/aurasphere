@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
+> 🥠 You are not illiterate.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
