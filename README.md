@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 It is a good day to have a good day.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
