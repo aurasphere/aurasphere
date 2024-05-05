@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It is a good day to have a good day.
+> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
