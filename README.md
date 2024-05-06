@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
+> 🥠 You will be hungry again in one hour.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
