@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will be hungry again in one hour.
+> 🥠 There's no angry way to say bubbles.
 <br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
