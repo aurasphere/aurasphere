@@ -2,8 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There's no angry way to say bubbles.
-<br />
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.<br />
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
     href="https://gbaas-readme.fly.dev/buttons/up?callback=https://github.com/aurasphere"><img src="img/up.png" width="30" /></a>
