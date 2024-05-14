@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A cynic is only a frustrated optimist.
+> 🥠 A closed mouth gathers no feet.
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
     href="https://gbaas-readme.fly.dev/buttons/up?callback=https://github.com/aurasphere"><img src="img/up.png" width="30" /></a>
