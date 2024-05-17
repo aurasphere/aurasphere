@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
+> 🥠 Someone will invite you to a Karaoke party.
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
     href="https://gbaas-readme.fly.dev/buttons/up?callback=https://github.com/aurasphere"><img src="img/up.png" width="30" /></a>
