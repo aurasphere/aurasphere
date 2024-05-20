@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 May you someday be carbon neutral.
+> 🥠 We don’t know the future, but here’s a cookie.
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
     href="https://gbaas-readme.fly.dev/buttons/up?callback=https://github.com/aurasphere"><img src="img/up.png" width="30" /></a>
