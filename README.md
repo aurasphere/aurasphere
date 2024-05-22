@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There is no mistake so great as that of being always right.
+> 🥠 It’s about time I got out of that cookie.
 
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
     href="https://gbaas-readme.fly.dev/buttons/up?callback=https://github.com/aurasphere"><img src="img/up.png" width="30" /></a>
