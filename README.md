@@ -2,7 +2,7 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
+> 🥠 Actions speak louder than fortune cookies.
 
 
 
