@@ -4,6 +4,11 @@ I'm Donato, and this is your daily fortune:
 
 > 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
+
+
+<a href="#"><img src="https://gbaas-readme.fly.dev/state?" alt="Game not loaded yet, wait a couple of seconds and refresh to play!" width="240" height="240" /></a>
+<br />
+
 <a href="#"><img src="img/blank.png" width="30"/></a> <a
     href="https://gbaas-readme.fly.dev/buttons/up?callback=https://github.com/aurasphere"><img src="img/up.png" width="30" /></a>
 <br><a href="https://gbaas-readme.fly.dev/buttons/left?callback=https://github.com/aurasphere"><img src="img/left.png"
