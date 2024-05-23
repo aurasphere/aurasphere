@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Actions speak louder than fortune cookies.
+> 🥠 The fortune you seek is in another cookie.
 
-Last update: Sun Dec 5 21:31:26 2021
+Last update: Thu May 23 13:10:01 2024
 
 ### Let's play! 🎮
 
