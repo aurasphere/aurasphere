@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Help! I am being held prisoner in a fortune cookie factory.
+> 🥠 Actions speak louder than fortune cookies.
 
-Last update: Fri May 24 05:07:32 2024
+Last update: Sat May 25 05:06:59 2024
 
 ### Let's play! 🎮
 
