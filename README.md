@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
+> 🥠 Someone will invite you to a Karaoke party.
 
-Last update: Mon May 27 05:07:36 2024
+Last update: Tue May 28 05:07:10 2024
 
 ### Let's play! 🎮
 
