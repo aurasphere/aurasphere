@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Someone will invite you to a Karaoke party.
+> 🥠 Don’t behave with cold manners.
 
-Last update: Tue May 28 05:07:10 2024
+Last update: Wed May 29 05:08:04 2024
 
 ### Let's play! 🎮
 
