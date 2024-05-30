@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t behave with cold manners.
+> 🥠 The greatest danger could be your stupidity.
 
-Last update: Wed May 29 05:08:04 2024
+Last update: Thu May 30 05:07:21 2024
 
 ### Let's play! 🎮
 
