@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 May you someday be carbon neutral.
 
-Last update: Fri May 31 05:07:58 2024
+Last update: Sat Jun  1 05:07:27 2024
 
 ### Let's play! 🎮
 
