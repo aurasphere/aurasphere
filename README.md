@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 May you someday be carbon neutral.
+> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
 
-Last update: Sat Jun  1 05:07:27 2024
+Last update: Sun Jun  2 05:07:01 2024
 
 ### Let's play! 🎮
 
