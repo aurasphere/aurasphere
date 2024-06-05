@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You love Chinese food.
+> 🥠 I see money in your future. It's not yours though.
 
-Last update: Tue Jun  4 05:09:28 2024
+Last update: Wed Jun  5 05:06:59 2024
 
 ### Let's play! 🎮
 
