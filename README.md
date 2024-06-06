@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I see money in your future. It's not yours though.
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
-Last update: Wed Jun  5 05:06:59 2024
+Last update: Thu Jun  6 05:08:11 2024
 
 ### Let's play! 🎮
 
