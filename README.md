@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will be hungry again in one hour.
+> 🥠 Don’t eat the paper.
 
-Last update: Sat Jun  8 05:07:21 2024
+Last update: Sun Jun  9 05:06:49 2024
 
 ### Let's play! 🎮
 
