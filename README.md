@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you look back, you’ll soon be going that way.
+> 🥠 All fortunes are wrong except this one.
 
-Last update: Fri Jun 14 05:07:06 2024
+Last update: Sat Jun 15 05:07:31 2024
 
 ### Let's play! 🎮
 
