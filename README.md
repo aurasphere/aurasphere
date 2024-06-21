@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never forget a friend. Especially if he owes you.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Thu Jun 20 05:07:07 2024
+Last update: Fri Jun 21 05:08:10 2024
 
 ### Let's play! 🎮
 
