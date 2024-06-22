@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
 
-Last update: Fri Jun 21 05:08:10 2024
+Last update: Sat Jun 22 05:08:30 2024
 
 ### Let's play! 🎮
 
