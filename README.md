@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
+> 🥠 A cynic is only a frustrated optimist.
 
-Last update: Sat Jun 22 05:08:30 2024
+Last update: Sun Jun 23 05:06:44 2024
 
 ### Let's play! 🎮
 
