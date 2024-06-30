@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I am worth a fortune.
+> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
 
-Last update: Sat Jun 29 05:07:43 2024
+Last update: Sun Jun 30 05:07:03 2024
 
 ### Let's play! 🎮
 
