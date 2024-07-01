@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
+> 🥠 The road to riches is paved with homework.
 
-Last update: Sun Jun 30 05:07:03 2024
+Last update: Mon Jul  1 05:08:04 2024
 
 ### Let's play! 🎮
 
