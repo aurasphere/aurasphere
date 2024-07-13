@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
+> 🥠 I cannot help you, for I am just a cookie.
 
-Last update: Fri Jul 12 05:07:14 2024
+Last update: Sat Jul 13 05:08:04 2024
 
 ### Let's play! 🎮
 
