@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 May you someday be carbon neutral.
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
-Last update: Tue Jul 16 05:07:29 2024
+Last update: Wed Jul 17 05:07:40 2024
 
 ### Let's play! 🎮
 
