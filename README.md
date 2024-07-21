@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Someone will invite you to a Karaoke party.
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
-Last update: Sat Jul 20 05:07:37 2024
+Last update: Sun Jul 21 05:07:49 2024
 
 ### Let's play! 🎮
 
