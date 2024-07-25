@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 Some fortune cookies contain no fortune.
 
-Last update: Wed Jul 24 05:07:23 2024
+Last update: Thu Jul 25 05:07:31 2024
 
 ### Let's play! 🎮
 
