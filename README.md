@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 How much deeper would the ocean be without sponges?
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
-Last update: Sat Jul 27 05:07:50 2024
+Last update: Sun Jul 28 05:08:10 2024
 
 ### Let's play! 🎮
 
