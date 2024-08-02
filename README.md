@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some men dream of fortunes, others dream of cookies.
+> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
 
-Last update: Thu Aug  1 05:07:45 2024
+Last update: Fri Aug  2 05:07:18 2024
 
 ### Let's play! 🎮
 
