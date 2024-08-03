@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
+> 🥠 18,000 children starve to death every day. They would have loved this cookie.
 
-Last update: Fri Aug  2 05:07:18 2024
+Last update: Sat Aug  3 05:07:05 2024
 
 ### Let's play! 🎮
 
