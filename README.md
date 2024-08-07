@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
+> 🥠 Ask your mom instead of a cookie.
 
-Last update: Tue Aug  6 05:08:09 2024
+Last update: Wed Aug  7 05:07:39 2024
 
 ### Let's play! 🎮
 
