@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 An alien of some sort will be appearing to you shortly.
+> 🥠 Never wear your best pants when you go to fight for freedom.
 
-Last update: Mon Aug 19 05:08:04 2024
+Last update: Tue Aug 20 05:07:40 2024
 
 ### Let's play! 🎮
 
