@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t forget you are always on our minds.
+> 🥠 The fortune you seek is in another cookie.
 
-Last update: Fri Aug 30 05:08:09 2024
+Last update: Sat Aug 31 05:07:19 2024
 
 ### Let's play! 🎮
 
