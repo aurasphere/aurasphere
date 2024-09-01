@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The fortune you seek is in another cookie.
+> 🥠 I see money in your future. It's not yours though.
 
-Last update: Sat Aug 31 05:07:19 2024
+Last update: Sun Sep  1 05:09:13 2024
 
 ### Let's play! 🎮
 
