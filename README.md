@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I see money in your future. It's not yours though.
+> 🥠 He who laughs at himself never runs out of things to laugh at.
 
-Last update: Sun Sep  1 05:09:13 2024
+Last update: Mon Sep  2 05:08:18 2024
 
 ### Let's play! 🎮
 
