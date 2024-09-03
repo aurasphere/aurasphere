@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs at himself never runs out of things to laugh at.
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
-Last update: Mon Sep  2 05:08:18 2024
+Last update: Tue Sep  3 05:08:11 2024
 
 ### Let's play! 🎮
 
