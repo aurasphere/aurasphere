@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some men dream of fortunes, others dream of cookies.
+> 🥠 A cynic is only a frustrated optimist.
 
-Last update: Tue Sep  3 05:08:11 2024
+Last update: Wed Sep  4 05:09:06 2024
 
 ### Let's play! 🎮
 
