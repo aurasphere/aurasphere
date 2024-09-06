@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I can't believe you're about to eat my tiny home.
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
-Last update: Thu Sep  5 05:08:00 2024
+Last update: Fri Sep  6 05:08:05 2024
 
 ### Let's play! 🎮
 
