@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Help! I am being held prisoner in a fortune cookie factory.
+> 🥠 You will receive a fortune cookie.
 
-Last update: Fri Sep  6 05:08:05 2024
+Last update: Sat Sep  7 05:07:19 2024
 
 ### Let's play! 🎮
 
