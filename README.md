@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ask not what your fortune cookie can do for you but what you can do for your fortune cookie.
+> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
 
-Last update: Mon Sep 16 05:09:54 2024
+Last update: Tue Sep 17 05:09:21 2024
 
 ### Let's play! 🎮
 
