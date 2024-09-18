@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Tue Sep 17 05:09:21 2024
+Last update: Wed Sep 18 05:08:03 2024
 
 ### Let's play! 🎮
 
