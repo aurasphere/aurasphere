@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
+> 🥠 He who laughs at himself never runs out of things to laugh at.
 
-Last update: Wed Sep 18 05:08:03 2024
+Last update: Thu Sep 19 05:08:36 2024
 
 ### Let's play! 🎮
 
