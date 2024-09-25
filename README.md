@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t eat the paper.
+> 🥠 He who throws dirt is losing ground.
 
-Last update: Tue Sep 24 05:08:31 2024
+Last update: Wed Sep 25 05:08:24 2024
 
 ### Let's play! 🎮
 
