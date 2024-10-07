@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never wear your best pants when you go to fight for freedom.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Sun Oct  6 05:07:59 2024
+Last update: Mon Oct  7 05:09:34 2024
 
 ### Let's play! 🎮
 
