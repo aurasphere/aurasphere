@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I see money in your future. It's not yours though.
+> 🥠 If you look back, you’ll soon be going that way.
 
-Last update: Tue Oct  8 05:08:35 2024
+Last update: Wed Oct  9 05:09:31 2024
 
 ### Let's play! 🎮
 
