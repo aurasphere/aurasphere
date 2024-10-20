@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
 
-Last update: Sat Oct 19 05:07:55 2024
+Last update: Sun Oct 20 05:08:18 2024
 
 ### Let's play! 🎮
 
