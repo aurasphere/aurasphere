@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A cynic is only a frustrated optimist.
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
-Last update: Tue Oct 22 05:08:49 2024
+Last update: Wed Oct 23 05:09:26 2024
 
 ### Let's play! 🎮
 
