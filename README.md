@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 We don’t know the future, but here’s a cookie.
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
-Last update: Mon Oct 28 05:09:45 2024
+Last update: Tue Oct 29 05:09:06 2024
 
 ### Let's play! 🎮
 
