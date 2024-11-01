@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 All fortunes are wrong except this one.
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
-Last update: Thu Oct 31 05:08:51 2024
+Last update: Fri Nov  1 05:09:21 2024
 
 ### Let's play! 🎮
 
