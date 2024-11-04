@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 May you someday be carbon neutral.
 
-Last update: Sun Nov  3 05:08:05 2024
+Last update: Mon Nov  4 05:09:52 2024
 
 ### Let's play! 🎮
 
