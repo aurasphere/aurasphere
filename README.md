@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A cynic is only a frustrated optimist.
+> 🥠 He who laughs at himself never runs out of things to laugh at.
 
-Last update: Thu Nov  7 05:08:42 2024
+Last update: Fri Nov  8 05:08:42 2024
 
 ### Let's play! 🎮
 
