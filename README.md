@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 How much deeper would the ocean be without sponges?
+> 🥠 There is no mistake so great as that of being always right.
 
-Last update: Mon Nov 11 05:09:18 2024
+Last update: Tue Nov 12 05:08:37 2024
 
 ### Let's play! 🎮
 
