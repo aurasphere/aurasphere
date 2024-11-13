@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There is no mistake so great as that of being always right.
+> 🥠 He who laughs at himself never runs out of things to laugh at.
 
-Last update: Tue Nov 12 05:08:37 2024
+Last update: Wed Nov 13 05:08:48 2024
 
 ### Let's play! 🎮
 
