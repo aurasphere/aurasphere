@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some fortune cookies contain no fortune.
+> 🥠 I see money in your future. It's not yours though.
 
-Last update: Wed Nov 20 05:09:09 2024
+Last update: Thu Nov 21 05:09:07 2024
 
 ### Let's play! 🎮
 
