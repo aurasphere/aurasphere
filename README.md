@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A conclusion is simply the place where you got tired of thinking.
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
-Last update: Fri Nov 22 05:09:04 2024
+Last update: Sat Nov 23 05:08:25 2024
 
 ### Let's play! 🎮
 
