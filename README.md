@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It is a good day to have a good day.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
-Last update: Mon Nov 25 05:09:49 2024
+Last update: Tue Nov 26 05:09:20 2024
 
 ### Let's play! 🎮
 
