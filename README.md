@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 Don’t eat the paper.
 
-Last update: Wed Nov 27 05:09:10 2024
+Last update: Thu Nov 28 05:09:33 2024
 
 ### Let's play! 🎮
 
