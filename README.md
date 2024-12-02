@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You can always find happiness at work on Friday.
+> 🥠 Hard work pays off in the future. Laziness pays off now.
 
-Last update: Sun Dec  1 05:09:03 2024
+Last update: Mon Dec  2 05:09:57 2024
 
 ### Let's play! 🎮
 
