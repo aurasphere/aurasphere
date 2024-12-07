@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 How much deeper would the ocean be without sponges?
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
-Last update: Fri Dec  6 05:09:22 2024
+Last update: Sat Dec  7 05:08:42 2024
 
 ### Let's play! 🎮
 
