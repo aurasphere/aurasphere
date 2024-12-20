@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Help! I am being held prisoner in a fortune cookie factory.
+> 🥠 He who throws dirt is losing ground.
 
-Last update: Thu Dec 19 05:09:05 2024
+Last update: Fri Dec 20 05:08:48 2024
 
 ### Let's play! 🎮
 
