@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 We don’t know the future, but here’s a cookie.
 
-Last update: Tue Dec 24 05:08:37 2024
+Last update: Wed Dec 25 05:08:40 2024
 
 ### Let's play! 🎮
 
