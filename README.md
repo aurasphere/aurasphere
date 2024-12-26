@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 We don’t know the future, but here’s a cookie.
+> 🥠 An alien of some sort will be appearing to you shortly.
 
-Last update: Wed Dec 25 05:08:40 2024
+Last update: Thu Dec 26 05:08:38 2024
 
 ### Let's play! 🎮
 
