@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
+> 🥠 Never wear your best pants when you go to fight for freedom.
 
-Last update: Fri Dec 27 05:08:27 2024
+Last update: Sat Dec 28 05:07:52 2024
 
 ### Let's play! 🎮
 
