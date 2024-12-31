@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Change is inevitable, except for vending machines.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
-Last update: Mon Dec 30 05:09:01 2024
+Last update: Tue Dec 31 05:08:33 2024
 
 ### Let's play! 🎮
 
