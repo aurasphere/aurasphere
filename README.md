@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
+> 🥠 All fortunes are wrong except this one.
 
-Last update: Tue Dec 31 05:08:33 2024
+Last update: Wed Jan  1 05:08:42 2025
 
 ### Let's play! 🎮
 
