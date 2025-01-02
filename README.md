@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 All fortunes are wrong except this one.
+> 🥠 He who throws dirt is losing ground.
 
-Last update: Wed Jan  1 05:08:42 2025
+Last update: Thu Jan  2 05:08:41 2025
 
 ### Let's play! 🎮
 
