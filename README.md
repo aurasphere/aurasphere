@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 May you someday be carbon neutral.
+> 🥠 You think it’s a secret, but they know.
 
-Last update: Fri Jan  3 05:08:39 2025
+Last update: Sat Jan  4 05:07:59 2025
 
 ### Let's play! 🎮
 
