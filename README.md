@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You think it’s a secret, but they know.
+> 🥠 I can't believe you're about to eat my tiny home.
 
-Last update: Sat Jan  4 05:07:59 2025
+Last update: Sun Jan  5 05:08:06 2025
 
 ### Let's play! 🎮
 
