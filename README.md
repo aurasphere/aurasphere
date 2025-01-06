@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I can't believe you're about to eat my tiny home.
+> 🥠 He who throws dirt is losing ground.
 
-Last update: Sun Jan  5 05:08:06 2025
+Last update: Mon Jan  6 05:09:17 2025
 
 ### Let's play! 🎮
 
