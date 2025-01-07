@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who throws dirt is losing ground.
+> 🥠 He who laughs last is laughing at you.
 
-Last update: Mon Jan  6 05:09:17 2025
+Last update: Tue Jan  7 05:08:37 2025
 
 ### Let's play! 🎮
 
