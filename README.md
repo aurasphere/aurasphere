@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t let statistics do a number on you.
+> 🥠 Don’t eat the paper.
 
-Last update: Sat Jan 11 05:07:43 2025
+Last update: Sun Jan 12 05:08:11 2025
 
 ### Let's play! 🎮
 
