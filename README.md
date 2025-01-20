@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 How much deeper would the ocean be without sponges?
+> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
 
-Last update: Sun Jan 19 05:07:47 2025
+Last update: Mon Jan 20 05:09:01 2025
 
 ### Let's play! 🎮
 
