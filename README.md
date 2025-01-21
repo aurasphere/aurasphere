@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
+> 🥠 He who laughs last is laughing at you.
 
-Last update: Mon Jan 20 05:09:01 2025
+Last update: Tue Jan 21 05:08:26 2025
 
 ### Let's play! 🎮
 
