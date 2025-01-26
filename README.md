@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Run.
+> 🥠 Ask not what your fortune cookie can do for you but what you can do for your fortune cookie.
 
-Last update: Sat Jan 25 05:07:42 2025
+Last update: Sun Jan 26 05:07:51 2025
 
 ### Let's play! 🎮
 
