@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
 
-Last update: Mon Jan 27 05:08:58 2025
+Last update: Tue Jan 28 05:08:37 2025
 
 ### Let's play! 🎮
 
