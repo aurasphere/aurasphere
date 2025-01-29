@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
+> 🥠 You will live long enough to open many fortune cookies.
 
-Last update: Tue Jan 28 05:08:37 2025
+Last update: Wed Jan 29 05:08:45 2025
 
 ### Let's play! 🎮
 
