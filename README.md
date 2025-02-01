@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
-Last update: Fri Jan 31 05:08:36 2025
+Last update: Sat Feb  1 05:07:59 2025
 
 ### Let's play! 🎮
 
