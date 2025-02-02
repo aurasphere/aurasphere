@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Sat Feb  1 05:07:59 2025
+Last update: Sun Feb  2 05:07:53 2025
 
 ### Let's play! 🎮
 
