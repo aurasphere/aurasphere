@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 You think it’s a secret, but they know.
 
-Last update: Sun Feb  2 05:07:53 2025
+Last update: Mon Feb  3 05:09:01 2025
 
 ### Let's play! 🎮
 
