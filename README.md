@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You think it’s a secret, but they know.
+> 🥠 Never do something halfway. If you do it w
 
-Last update: Mon Feb  3 05:09:01 2025
+Last update: Tue Feb  4 05:08:51 2025
 
 ### Let's play! 🎮
 
