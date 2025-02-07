@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There is no mistake so great as that of being always right.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
-Last update: Thu Feb  6 05:08:58 2025
+Last update: Fri Feb  7 05:08:54 2025
 
 ### Let's play! 🎮
 
