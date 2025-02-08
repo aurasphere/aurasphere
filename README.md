@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fortune not found? Abort, Retry, Ignore.
+> 🥠 Don’t eat the paper.
 
-Last update: Fri Feb  7 05:08:54 2025
+Last update: Sat Feb  8 05:07:57 2025
 
 ### Let's play! 🎮
 
