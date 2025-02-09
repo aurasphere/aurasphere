@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t eat the paper.
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
-Last update: Sat Feb  8 05:07:57 2025
+Last update: Sun Feb  9 05:08:01 2025
 
 ### Let's play! 🎮
 
