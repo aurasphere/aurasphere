@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
+> 🥠 There's no angry way to say bubbles.
 
-Last update: Sun Feb  9 05:08:01 2025
+Last update: Mon Feb 10 05:09:54 2025
 
 ### Let's play! 🎮
 
