@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There's no angry way to say bubbles.
+> 🥠 18,000 children starve to death every day. They would have loved this cookie.
 
-Last update: Mon Feb 10 05:09:54 2025
+Last update: Tue Feb 11 05:08:47 2025
 
 ### Let's play! 🎮
 
