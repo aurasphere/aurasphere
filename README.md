@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 How much deeper would the ocean be without sponges?
+> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
 
-Last update: Wed Feb 12 05:09:14 2025
+Last update: Thu Feb 13 05:08:59 2025
 
 ### Let's play! 🎮
 
