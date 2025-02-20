@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A conclusion is simply the place where you got tired of thinking.
+> 🥠 The fortune you seek is in another cookie.
 
-Last update: Wed Feb 19 05:08:51 2025
+Last update: Thu Feb 20 05:09:06 2025
 
 ### Let's play! 🎮
 
