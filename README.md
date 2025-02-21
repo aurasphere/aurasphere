@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The fortune you seek is in another cookie.
+> 🥠 Flattery will go far tonight.
 
-Last update: Thu Feb 20 05:09:06 2025
+Last update: Fri Feb 21 05:08:47 2025
 
 ### Let's play! 🎮
 
