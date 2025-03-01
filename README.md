@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Fri Feb 28 05:09:03 2025
+Last update: Sat Mar  1 05:08:29 2025
 
 ### Let's play! 🎮
 
