@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 Ask not what your fortune cookie can do for you but what you can do for your fortune cookie.
 
-Last update: Sat Mar  1 05:08:29 2025
+Last update: Sun Mar  2 05:08:36 2025
 
 ### Let's play! 🎮
 
