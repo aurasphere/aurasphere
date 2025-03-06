@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I cannot help you, for I am just a cookie.
+> 🥠 Three can keep a secret, if you get rid of two.
 
-Last update: Wed Mar  5 05:09:06 2025
+Last update: Thu Mar  6 05:09:43 2025
 
 ### Let's play! 🎮
 
