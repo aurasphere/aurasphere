@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 We don’t know the future, but here’s a cookie.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Fri Mar  7 05:09:39 2025
+Last update: Sat Mar  8 05:06:40 2025
 
 ### Let's play! 🎮
 
