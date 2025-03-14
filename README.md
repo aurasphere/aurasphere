@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I am worth a fortune.
+> 🥠 I see money in your future. It's not yours though.
 
-Last update: Thu Mar 13 05:09:42 2025
+Last update: Fri Mar 14 05:09:19 2025
 
 ### Let's play! 🎮
 
