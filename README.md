@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Someone will invite you to a Karaoke party.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
-Last update: Sat Mar 15 05:08:31 2025
+Last update: Sun Mar 16 05:08:40 2025
 
 ### Let's play! 🎮
 
