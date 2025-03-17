@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fortune not found? Abort, Retry, Ignore.
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 
-Last update: Sun Mar 16 05:08:40 2025
+Last update: Mon Mar 17 05:10:00 2025
 
 ### Let's play! 🎮
 
