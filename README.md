@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Enjoy yourself while you can.
+> 🥠 Never do something halfway. If you do it w
 
-Last update: Wed Mar 19 05:09:26 2025
+Last update: Thu Mar 20 05:09:38 2025
 
 ### Let's play! 🎮
 
