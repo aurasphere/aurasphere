@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never do something halfway. If you do it w
+> 🥠 The fortune you seek is in another cookie.
 
-Last update: Thu Mar 20 05:09:38 2025
+Last update: Fri Mar 21 05:09:15 2025
 
 ### Let's play! 🎮
 
