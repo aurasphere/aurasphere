@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It is a good day to have a good day.
+> 🥠 Ask your mom instead of a cookie.
 
-Last update: Sun Mar 23 05:08:37 2025
+Last update: Mon Mar 24 05:09:48 2025
 
 ### Let's play! 🎮
 
