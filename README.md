@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ask your mom instead of a cookie.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Mon Mar 24 05:09:48 2025
+Last update: Tue Mar 25 05:10:31 2025
 
 ### Let's play! 🎮
 
