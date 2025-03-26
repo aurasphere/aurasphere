@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 Three can keep a secret, if you get rid of two.
 
-Last update: Tue Mar 25 05:10:31 2025
+Last update: Wed Mar 26 05:09:42 2025
 
 ### Let's play! 🎮
 
