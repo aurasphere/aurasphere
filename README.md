@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 
-Last update: Sun Mar 30 05:08:48 2025
+Last update: Mon Mar 31 05:10:12 2025
 
 ### Let's play! 🎮
 
