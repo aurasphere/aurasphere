@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Someone will invite you to a Karaoke party.
+> 🥠 Never wear your best pants when you go to fight for freedom.
 
-Last update: Wed Apr  2 05:10:22 2025
+Last update: Thu Apr  3 05:09:46 2025
 
 ### Let's play! 🎮
 
