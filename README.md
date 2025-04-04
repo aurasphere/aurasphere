@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never wear your best pants when you go to fight for freedom.
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
-Last update: Thu Apr  3 05:09:46 2025
+Last update: Fri Apr  4 05:09:33 2025
 
 ### Let's play! 🎮
 
