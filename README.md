@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Flattery will go far tonight.
+> 🥠 Do not mistake temptation for opportunity.
 
-Last update: Tue Apr  8 05:09:44 2025
+Last update: Wed Apr  9 05:09:57 2025
 
 ### Let's play! 🎮
 
