@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 Three can keep a secret, if you get rid of two.
 
-Last update: Wed Apr  9 05:09:57 2025
+Last update: Thu Apr 10 05:09:53 2025
 
 ### Let's play! 🎮
 
