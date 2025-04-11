@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Three can keep a secret, if you get rid of two.
+> 🥠 18,000 children starve to death every day. They would have loved this cookie.
 
-Last update: Thu Apr 10 05:09:53 2025
+Last update: Fri Apr 11 05:09:54 2025
 
 ### Let's play! 🎮
 
