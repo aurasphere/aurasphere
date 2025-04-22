@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Actions speak louder than fortune cookies.
+> 🥠 The road to riches is paved with homework.
 
-Last update: Mon Apr 21 05:10:34 2025
+Last update: Tue Apr 22 05:10:07 2025
 
 ### Let's play! 🎮
 
