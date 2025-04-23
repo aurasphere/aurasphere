@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The road to riches is paved with homework.
+> 🥠 I cannot help you, for I am just a cookie.
 
-Last update: Tue Apr 22 05:10:07 2025
+Last update: Wed Apr 23 05:10:09 2025
 
 ### Let's play! 🎮
 
