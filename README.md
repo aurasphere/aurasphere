@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I cannot help you, for I am just a cookie.
+> 🥠 Your pet is planning to eat you.
 
-Last update: Wed Apr 23 05:10:09 2025
+Last update: Thu Apr 24 05:10:09 2025
 
 ### Let's play! 🎮
 
