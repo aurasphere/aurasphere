@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A cynic is only a frustrated optimist.
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 
-Last update: Fri Apr 25 05:10:01 2025
+Last update: Sat Apr 26 05:08:45 2025
 
 ### Let's play! 🎮
 
