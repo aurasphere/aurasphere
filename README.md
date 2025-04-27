@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
+> 🥠 The greatest danger could be your stupidity.
 
-Last update: Sat Apr 26 05:08:45 2025
+Last update: Sun Apr 27 05:09:14 2025
 
 ### Let's play! 🎮
 
