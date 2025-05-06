@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
+> 🥠 The road to riches is paved with homework.
 
-Last update: Mon May  5 05:10:49 2025
+Last update: Tue May  6 05:10:17 2025
 
 ### Let's play! 🎮
 
