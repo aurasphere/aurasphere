@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The road to riches is paved with homework.
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
-Last update: Tue May  6 05:10:17 2025
+Last update: Wed May  7 05:10:04 2025
 
 ### Let's play! 🎮
 
