@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Help! I am being held prisoner in a fortune cookie factory.
+> 🥠 May you someday be carbon neutral.
 
-Last update: Wed May  7 05:10:04 2025
+Last update: Thu May  8 05:10:32 2025
 
 ### Let's play! 🎮
 
