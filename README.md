@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You think it’s a secret, but they know.
+> 🥠 This cookie contains 117 calories.
 
-Last update: Sat May 17 05:09:27 2025
+Last update: Sun May 18 05:09:44 2025
 
 ### Let's play! 🎮
 
