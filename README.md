@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 A cynic is only a frustrated optimist.
 
-Last update: Wed May 21 05:10:25 2025
+Last update: Thu May 22 05:10:37 2025
 
 ### Let's play! 🎮
 
