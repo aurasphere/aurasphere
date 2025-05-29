@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
+> 🥠 The road to riches is paved with homework.
 
-Last update: Wed May 28 05:10:31 2025
+Last update: Thu May 29 05:10:46 2025
 
 ### Let's play! 🎮
 
