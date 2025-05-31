@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I cannot help you, for I am just a cookie.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Fri May 30 05:10:27 2025
+Last update: Sat May 31 05:09:39 2025
 
 ### Let's play! 🎮
 
