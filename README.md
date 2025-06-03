@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some fortune cookies contain no fortune.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
-Last update: Mon Jun  2 05:11:47 2025
+Last update: Tue Jun  3 05:11:08 2025
 
 ### Let's play! 🎮
 
