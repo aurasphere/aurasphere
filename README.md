@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Sat Jun  7 05:09:31 2025
+Last update: Sun Jun  8 05:09:48 2025
 
 ### Let's play! 🎮
 
