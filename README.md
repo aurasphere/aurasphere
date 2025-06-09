@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 You will be hungry again in one hour.
 
-Last update: Sun Jun  8 05:09:48 2025
+Last update: Mon Jun  9 05:11:55 2025
 
 ### Let's play! 🎮
 
