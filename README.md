@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Enjoy yourself while you can.
+> 🥠 You will receive a fortune cookie.
 
-Last update: Wed Jun 11 05:11:53 2025
+Last update: Thu Jun 12 05:10:35 2025
 
 ### Let's play! 🎮
 
