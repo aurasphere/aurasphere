@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 Don’t behave with cold manners.
 
-Last update: Fri Jun 13 05:10:33 2025
+Last update: Sat Jun 14 05:09:49 2025
 
 ### Let's play! 🎮
 
