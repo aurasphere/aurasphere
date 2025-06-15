@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t behave with cold manners.
+> 🥠 Enjoy yourself while you can.
 
-Last update: Sat Jun 14 05:09:49 2025
+Last update: Sun Jun 15 05:10:05 2025
 
 ### Let's play! 🎮
 
