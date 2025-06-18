@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A conclusion is simply the place where you got tired of thinking.
+> 🥠 Don’t eat the paper.
 
-Last update: Tue Jun 17 05:10:43 2025
+Last update: Wed Jun 18 05:11:23 2025
 
 ### Let's play! 🎮
 
