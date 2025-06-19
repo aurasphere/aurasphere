@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t eat the paper.
+> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
 
-Last update: Wed Jun 18 05:11:23 2025
+Last update: Thu Jun 19 05:10:45 2025
 
 ### Let's play! 🎮
 
