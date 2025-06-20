@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
-Last update: Thu Jun 19 05:10:45 2025
+Last update: Fri Jun 20 05:11:17 2025
 
 ### Let's play! 🎮
 
