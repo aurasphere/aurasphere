@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some men dream of fortunes, others dream of cookies.
+> 🥠 It’s about time I got out of that cookie.
 
-Last update: Fri Jun 20 05:11:17 2025
+Last update: Sat Jun 21 05:09:37 2025
 
 ### Let's play! 🎮
 
