@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
+> 🥠 The greatest danger could be your stupidity.
 
-Last update: Sat Jun 21 05:09:37 2025
+Last update: Sun Jun 22 05:10:44 2025
 
 ### Let's play! 🎮
 
