@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 He who laughs at himself never runs out of things to laugh at.
 
-Last update: Sun Jun 22 05:10:44 2025
+Last update: Mon Jun 23 05:13:19 2025
 
 ### Let's play! 🎮
 
