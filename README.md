@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs at himself never runs out of things to laugh at.
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
-Last update: Mon Jun 23 05:13:19 2025
+Last update: Tue Jun 24 05:13:06 2025
 
 ### Let's play! 🎮
 
