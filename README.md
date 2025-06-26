@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Enjoy yourself while you can.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Wed Jun 25 05:12:38 2025
+Last update: Thu Jun 26 05:11:25 2025
 
 ### Let's play! 🎮
 
