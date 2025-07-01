@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 
-Last update: Mon Jun 30 05:13:12 2025
+Last update: Tue Jul  1 05:15:02 2025
 
 ### Let's play! 🎮
 
