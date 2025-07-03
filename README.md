@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Actions speak louder than fortune cookies.
+> 🥠 18,000 children starve to death every day. They would have loved this cookie.
 
-Last update: Wed Jul  2 05:13:05 2025
+Last update: Thu Jul  3 05:14:21 2025
 
 ### Let's play! 🎮
 
