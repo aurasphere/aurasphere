@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs last is laughing at you.
+> 🥠 You think it’s a secret, but they know.
 
-Last update: Fri Jul  4 05:13:25 2025
+Last update: Sat Jul  5 05:10:01 2025
 
 ### Let's play! 🎮
 
