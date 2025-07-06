@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You think it’s a secret, but they know.
+> 🥠 Three can keep a secret, if you get rid of two.
 
-Last update: Sat Jul  5 05:10:01 2025
+Last update: Sun Jul  6 05:11:01 2025
 
 ### Let's play! 🎮
 
