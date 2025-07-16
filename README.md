@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A cynic is only a frustrated optimist.
+> 🥠 Some fortune cookies contain no fortune.
 
-Last update: Tue Jul 15 05:15:54 2025
+Last update: Wed Jul 16 05:17:11 2025
 
 ### Let's play! 🎮
 
