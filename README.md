@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 He who laughs last is laughing at you.
 
-Last update: Sat Jul 26 05:14:54 2025
+Last update: Sun Jul 27 05:17:33 2025
 
 ### Let's play! 🎮
 
