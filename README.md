@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Change is inevitable, except for vending machines.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
-Last update: Tue Jul 29 05:20:19 2025
+Last update: Wed Jul 30 05:21:03 2025
 
 ### Let's play! 🎮
 
