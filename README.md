@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Fortune not found? Abort, Retry, Ignore.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
-Last update: Wed Jul 30 05:21:03 2025
+Last update: Thu Jul 31 05:18:58 2025
 
 ### Let's play! 🎮
 
