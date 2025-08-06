@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 How much deeper would the ocean be without sponges?
+> 🥠 18,000 children starve to death every day. They would have loved this cookie.
 
-Last update: Tue Aug  5 05:21:01 2025
+Last update: Wed Aug  6 05:22:27 2025
 
 ### Let's play! 🎮
 
