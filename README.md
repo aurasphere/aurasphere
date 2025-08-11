@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I am worth a fortune.
+> 🥠 Don’t behave with cold manners.
 
-Last update: Sun Aug 10 05:15:18 2025
+Last update: Mon Aug 11 05:19:33 2025
 
 ### Let's play! 🎮
 
