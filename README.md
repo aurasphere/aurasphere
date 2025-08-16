@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
-Last update: Fri Aug 15 05:11:45 2025
+Last update: Sat Aug 16 05:10:36 2025
 
 ### Let's play! 🎮
 
