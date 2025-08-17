@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
+> 🥠 Don’t eat the paper.
 
-Last update: Sat Aug 16 05:10:36 2025
+Last update: Sun Aug 17 05:11:09 2025
 
 ### Let's play! 🎮
 
