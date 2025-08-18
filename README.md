@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t eat the paper.
+> 🥠 The fortune you seek is in another cookie.
 
-Last update: Sun Aug 17 05:11:09 2025
+Last update: Mon Aug 18 05:15:25 2025
 
 ### Let's play! 🎮
 
