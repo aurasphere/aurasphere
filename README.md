@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t let statistics do a number on you.
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
-Last update: Tue Aug 19 05:10:12 2025
+Last update: Wed Aug 20 05:10:10 2025
 
 ### Let's play! 🎮
 
