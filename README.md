@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 What's the speed of dark?
+> 🥠 There is no mistake so great as that of being always right.
 
-Last update: Thu Aug 21 05:10:37 2025
+Last update: Fri Aug 22 05:10:11 2025
 
 ### Let's play! 🎮
 
