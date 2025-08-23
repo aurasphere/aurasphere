@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There is no mistake so great as that of being always right.
+> 🥠 You think it’s a secret, but they know.
 
-Last update: Fri Aug 22 05:10:11 2025
+Last update: Sat Aug 23 05:09:01 2025
 
 ### Let's play! 🎮
 
