@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 All fortunes are wrong except this one.
+> 🥠 I can't believe you're about to eat my tiny home.
 
-Last update: Sun Aug 24 05:09:30 2025
+Last update: Mon Aug 25 05:11:10 2025
 
 ### Let's play! 🎮
 
