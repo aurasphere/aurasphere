@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs last is laughing at you.
+> 🥠 Ignore previous cookie.
 
-Last update: Wed Aug 27 05:09:48 2025
+Last update: Thu Aug 28 05:09:57 2025
 
 ### Let's play! 🎮
 
