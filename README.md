@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ignore previous cookie.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Thu Aug 28 05:09:57 2025
+Last update: Fri Aug 29 05:09:35 2025
 
 ### Let's play! 🎮
 
