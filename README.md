@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Fri Aug 29 05:09:35 2025
+Last update: Sat Aug 30 05:08:27 2025
 
 ### Let's play! 🎮
 
