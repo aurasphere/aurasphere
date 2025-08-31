@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 18,000 children starve to death every day. They would have loved this cookie.
 
-Last update: Sat Aug 30 05:08:27 2025
+Last update: Sun Aug 31 05:08:48 2025
 
 ### Let's play! 🎮
 
