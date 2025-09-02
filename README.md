@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I see money in your future. It's not yours though.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Mon Sep  1 05:10:48 2025
+Last update: Tue Sep  2 05:10:10 2025
 
 ### Let's play! 🎮
 
