@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 We don’t know the future, but here’s a cookie.
 
-Last update: Tue Sep  2 05:10:10 2025
+Last update: Wed Sep  3 05:09:21 2025
 
 ### Let's play! 🎮
 
