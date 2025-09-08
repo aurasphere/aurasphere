@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 Never wear your best pants when you go to fight for freedom.
 
-Last update: Sun Sep  7 05:08:25 2025
+Last update: Mon Sep  8 05:10:04 2025
 
 ### Let's play! 🎮
 
