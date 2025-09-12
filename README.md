@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
+> 🥠 Don’t behave with cold manners.
 
-Last update: Thu Sep 11 05:09:51 2025
+Last update: Fri Sep 12 05:09:20 2025
 
 ### Let's play! 🎮
 
