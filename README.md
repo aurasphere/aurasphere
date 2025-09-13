@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t behave with cold manners.
+> 🥠 Ask not what your fortune cookie can do for you but what you can do for your fortune cookie.
 
-Last update: Fri Sep 12 05:09:20 2025
+Last update: Sat Sep 13 05:08:11 2025
 
 ### Let's play! 🎮
 
