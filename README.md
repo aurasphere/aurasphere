@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ask not what your fortune cookie can do for you but what you can do for your fortune cookie.
+> 🥠 Actions speak louder than fortune cookies.
 
-Last update: Sat Sep 13 05:08:11 2025
+Last update: Sun Sep 14 05:08:16 2025
 
 ### Let's play! 🎮
 
