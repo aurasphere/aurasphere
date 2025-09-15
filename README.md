@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Actions speak louder than fortune cookies.
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
-Last update: Sun Sep 14 05:08:16 2025
+Last update: Mon Sep 15 05:10:06 2025
 
 ### Let's play! 🎮
 
