@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The road to riches is paved with homework.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Thu Sep 18 05:09:19 2025
+Last update: Fri Sep 19 05:09:31 2025
 
 ### Let's play! 🎮
 
