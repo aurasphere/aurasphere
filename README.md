@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
+> 🥠 All fortunes are wrong except this one.
 
-Last update: Fri Sep 19 05:09:31 2025
+Last update: Sat Sep 20 05:08:23 2025
 
 ### Let's play! 🎮
 
