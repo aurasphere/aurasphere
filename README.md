@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 
-Last update: Tue Sep 23 05:09:45 2025
+Last update: Wed Sep 24 05:09:54 2025
 
 ### Let's play! 🎮
 
