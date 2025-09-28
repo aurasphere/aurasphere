@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It is a good day to have a good day.
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
-Last update: Sat Sep 27 05:08:46 2025
+Last update: Sun Sep 28 05:08:53 2025
 
 ### Let's play! 🎮
 
