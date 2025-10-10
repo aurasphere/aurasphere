@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will live long enough to open many fortune cookies.
+> 🥠 Some fortune cookies contain no fortune.
 
-Last update: Thu Oct  9 05:09:47 2025
+Last update: Fri Oct 10 05:09:39 2025
 
 ### Let's play! 🎮
 
