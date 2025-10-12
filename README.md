@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ask your mom instead of a cookie.
+> 🥠 Flattery will go far tonight.
 
-Last update: Sat Oct 11 05:08:19 2025
+Last update: Sun Oct 12 05:08:57 2025
 
 ### Let's play! 🎮
 
