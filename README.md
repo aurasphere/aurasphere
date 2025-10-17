@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 All fortunes are wrong except this one.
 
-Last update: Thu Oct 16 05:09:48 2025
+Last update: Fri Oct 17 05:09:30 2025
 
 ### Let's play! 🎮
 
