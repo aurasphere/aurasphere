@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 Three can keep a secret, if you get rid of two.
 
-Last update: Wed Oct 22 05:10:04 2025
+Last update: Thu Oct 23 05:09:51 2025
 
 ### Let's play! 🎮
 
