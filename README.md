@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will live long enough to open many fortune cookies.
+> 🥠 Do not mistake temptation for opportunity.
 
-Last update: Thu Oct 30 05:10:02 2025
+Last update: Fri Oct 31 05:11:11 2025
 
 ### Let's play! 🎮
 
