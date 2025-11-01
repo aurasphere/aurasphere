@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Do not mistake temptation for opportunity.
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
-Last update: Fri Oct 31 05:11:11 2025
+Last update: Sat Nov  1 05:09:12 2025
 
 ### Let's play! 🎮
 
