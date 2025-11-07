@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A conclusion is simply the place where you got tired of thinking.
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 
-Last update: Thu Nov  6 05:10:38 2025
+Last update: Fri Nov  7 05:10:12 2025
 
 ### Let's play! 🎮
 
