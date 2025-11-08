@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
+> 🥠 Ignore previous cookie.
 
-Last update: Fri Nov  7 05:10:12 2025
+Last update: Sat Nov  8 05:09:23 2025
 
 ### Let's play! 🎮
 
