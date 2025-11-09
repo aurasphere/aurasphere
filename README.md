@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ignore previous cookie.
+> 🥠 Do not mistake temptation for opportunity.
 
-Last update: Sat Nov  8 05:09:23 2025
+Last update: Sun Nov  9 05:09:29 2025
 
 ### Let's play! 🎮
 
