@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Run.
+> 🥠 The road to riches is paved with homework.
 
-Last update: Sat Nov 15 05:09:34 2025
+Last update: Sun Nov 16 05:09:46 2025
 
 ### Let's play! 🎮
 
