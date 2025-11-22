@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs at himself never runs out of things to laugh at.
+> 🥠 I cannot help you, for I am just a cookie.
 
-Last update: Fri Nov 21 05:10:47 2025
+Last update: Sat Nov 22 05:09:27 2025
 
 ### Let's play! 🎮
 
