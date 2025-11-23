@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I cannot help you, for I am just a cookie.
+> 🥠 Fail.
 
-Last update: Sat Nov 22 05:09:27 2025
+Last update: Sun Nov 23 05:09:44 2025
 
 ### Let's play! 🎮
 
