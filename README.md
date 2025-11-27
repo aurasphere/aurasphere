@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Wed Nov 26 05:10:38 2025
+Last update: Thu Nov 27 05:11:06 2025
 
 ### Let's play! 🎮
 
