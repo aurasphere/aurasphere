@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Someone will invite you to a Karaoke party.
+> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
 
-Last update: Fri Nov 28 05:11:16 2025
+Last update: Sat Nov 29 05:09:49 2025
 
 ### Let's play! 🎮
 
