@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There's no angry way to say bubbles.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Sun Nov 30 05:10:14 2025
+Last update: Mon Dec  1 05:19:31 2025
 
 ### Let's play! 🎮
 
