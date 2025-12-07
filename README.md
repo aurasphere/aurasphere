@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Change is inevitable, except for vending machines.
+> 🥠 Some fortune cookies contain no fortune.
 
-Last update: Sat Dec  6 05:09:48 2025
+Last update: Sun Dec  7 05:09:19 2025
 
 ### Let's play! 🎮
 
