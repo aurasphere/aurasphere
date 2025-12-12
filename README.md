@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There's no angry way to say bubbles.
+> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
 
-Last update: Thu Dec 11 05:14:10 2025
+Last update: Fri Dec 12 05:12:28 2025
 
 ### Let's play! 🎮
 
