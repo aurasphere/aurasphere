@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
+> 🥠 Actions speak louder than fortune cookies.
 
-Last update: Fri Dec 12 05:12:28 2025
+Last update: Sat Dec 13 05:10:31 2025
 
 ### Let's play! 🎮
 
