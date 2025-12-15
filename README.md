@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The road to riches is paved with homework.
+> 🥠 Hard work pays off in the future. Laziness pays off now.
 
-Last update: Sun Dec 14 05:11:41 2025
+Last update: Mon Dec 15 05:16:50 2025
 
 ### Let's play! 🎮
 
