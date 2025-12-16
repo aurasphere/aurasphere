@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Hard work pays off in the future. Laziness pays off now.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
-Last update: Mon Dec 15 05:16:50 2025
+Last update: Tue Dec 16 05:14:14 2025
 
 ### Let's play! 🎮
 
