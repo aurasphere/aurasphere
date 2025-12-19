@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs at himself never runs out of things to laugh at.
+> 🥠 He who laughs last is laughing at you.
 
-Last update: Thu Dec 18 05:13:46 2025
+Last update: Fri Dec 19 05:13:05 2025
 
 ### Let's play! 🎮
 
