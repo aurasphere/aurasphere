@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never wear your best pants when you go to fight for freedom.
+> 🥠 All fortunes are wrong except this one.
 
-Last update: Thu Dec 25 05:14:49 2025
+Last update: Fri Dec 26 05:13:06 2025
 
 ### Let's play! 🎮
 
