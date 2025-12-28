@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
+> 🥠 You will receive a fortune cookie.
 
-Last update: Sat Dec 27 05:11:54 2025
+Last update: Sun Dec 28 05:15:16 2025
 
 ### Let's play! 🎮
 
