@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who laughs last is laughing at you.
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
-Last update: Thu Jan  1 05:18:56 2026
+Last update: Fri Jan  2 05:16:29 2026
 
 ### Let's play! 🎮
 
