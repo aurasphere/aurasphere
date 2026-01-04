@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never forget a friend. Especially if he owes you.
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
-Last update: Sat Jan  3 05:12:17 2026
+Last update: Sun Jan  4 05:17:38 2026
 
 ### Let's play! 🎮
 
