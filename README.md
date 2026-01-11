@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
-Last update: Sat Jan 10 05:12:11 2026
+Last update: Sun Jan 11 05:17:01 2026
 
 ### Let's play! 🎮
 
