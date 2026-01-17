@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 What's the speed of dark?
+> 🥠 If you look back, you’ll soon be going that way.
 
-Last update: Fri Jan 16 05:16:13 2026
+Last update: Sat Jan 17 05:11:34 2026
 
 ### Let's play! 🎮
 
