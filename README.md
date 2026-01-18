@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you look back, you’ll soon be going that way.
+> 🥠 Never do something halfway. If you do it w
 
-Last update: Sat Jan 17 05:11:34 2026
+Last update: Sun Jan 18 05:14:58 2026
 
 ### Let's play! 🎮
 
