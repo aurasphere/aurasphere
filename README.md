@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Tue Jan 20 05:20:18 2026
+Last update: Wed Jan 21 05:20:28 2026
 
 ### Let's play! 🎮
 
