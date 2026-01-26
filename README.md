@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Because of your melodic nature, the moonlight never misses an appointment.
+> 🥠 All fortunes are wrong except this one.
 
-Last update: Sun Jan 25 05:20:19 2026
+Last update: Mon Jan 26 05:25:09 2026
 
 ### Let's play! 🎮
 
