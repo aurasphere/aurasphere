@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 May you someday be carbon neutral.
+> 🥠 Hard work pays off in the future. Laziness pays off now.
 
-Last update: Wed Jan 28 05:19:33 2026
+Last update: Thu Jan 29 05:34:57 2026
 
 ### Let's play! 🎮
 
