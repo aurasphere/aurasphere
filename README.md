@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 He who throws dirt is losing ground.
 
-Last update: Thu Feb  5 05:45:28 2026
+Last update: Fri Feb  6 05:43:42 2026
 
 ### Let's play! 🎮
 
