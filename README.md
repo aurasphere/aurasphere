@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Run.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Fri Feb 13 05:51:53 2026
+Last update: Sat Feb 14 05:36:49 2026
 
 ### Let's play! 🎮
 
