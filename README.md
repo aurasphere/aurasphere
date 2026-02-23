@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who throws dirt is losing ground.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
-Last update: Sun Feb 22 05:42:43 2026
+Last update: Mon Feb 23 05:57:52 2026
 
 ### Let's play! 🎮
 
