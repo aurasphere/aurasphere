@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Actions speak louder than fortune cookies.
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
-Last update: Sun Mar  1 05:42:43 2026
+Last update: Mon Mar  2 05:43:10 2026
 
 ### Let's play! 🎮
 
