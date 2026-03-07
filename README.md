@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who throws dirt is losing ground.
+> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
 
-Last update: Fri Mar  6 05:37:28 2026
+Last update: Sat Mar  7 05:30:27 2026
 
 ### Let's play! 🎮
 
