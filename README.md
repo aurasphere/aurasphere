@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Someone will invite you to a Karaoke party.
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 
-Last update: Sun Mar  8 05:34:55 2026
+Last update: Mon Mar  9 05:49:08 2026
 
 ### Let's play! 🎮
 
