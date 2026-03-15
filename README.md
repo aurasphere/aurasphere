@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will receive a fortune cookie.
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
-Last update: Sat Mar 14 05:37:17 2026
+Last update: Sun Mar 15 05:58:46 2026
 
 ### Let's play! 🎮
 
