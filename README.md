@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 No snowflake feels responsible in an avalanche.
+> 🥠 There is no mistake so great as that of being always right.
 
-Last update: Tue Mar 24 05:51:59 2026
+Last update: Wed Mar 25 05:53:15 2026
 
 ### Let's play! 🎮
 
