@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There is no mistake so great as that of being always right.
+> 🥠 Ask not what your fortune cookie can do for you but what you can do for your fortune cookie.
 
-Last update: Wed Mar 25 05:53:15 2026
+Last update: Thu Mar 26 06:04:38 2026
 
 ### Let's play! 🎮
 
