@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ask not what your fortune cookie can do for you but what you can do for your fortune cookie.
+> 🥠 Never forget a friend. Especially if he owes you.
 
-Last update: Thu Mar 26 06:04:38 2026
+Last update: Fri Mar 27 06:05:50 2026
 
 ### Let's play! 🎮
 
