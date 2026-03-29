@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It is a good day to have a good day.
+> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
 
-Last update: Sat Mar 28 05:47:53 2026
+Last update: Sun Mar 29 06:05:00 2026
 
 ### Let's play! 🎮
 
