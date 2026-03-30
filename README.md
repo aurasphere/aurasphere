@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
+> 🥠 You think it’s a secret, but they know.
 
-Last update: Sun Mar 29 06:05:00 2026
+Last update: Mon Mar 30 06:22:52 2026
 
 ### Let's play! 🎮
 
