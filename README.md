@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 Three can keep a secret, if you get rid of two.
 
-Last update: Tue Mar 31 06:09:07 2026
+Last update: Wed Apr  1 06:20:03 2026
 
 ### Let's play! 🎮
 
