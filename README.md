@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Three can keep a secret, if you get rid of two.
+> 🥠 Never forget a friend. Especially if he owes you.
 
-Last update: Wed Apr  1 06:20:03 2026
+Last update: Thu Apr  2 06:04:13 2026
 
 ### Let's play! 🎮
 
