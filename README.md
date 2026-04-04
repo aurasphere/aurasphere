@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Help! I am being held prisoner in a fortune cookie factory.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Fri Apr  3 06:04:48 2026
+Last update: Sat Apr  4 05:48:06 2026
 
 ### Let's play! 🎮
 
