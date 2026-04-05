@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
-Last update: Sat Apr  4 05:48:06 2026
+Last update: Sun Apr  5 06:07:21 2026
 
 ### Let's play! 🎮
 
