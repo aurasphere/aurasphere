@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t forget you are always on our minds.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
-Last update: Thu Apr  9 06:12:51 2026
+Last update: Fri Apr 10 06:24:30 2026
 
 ### Let's play! 🎮
 
