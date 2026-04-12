@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Run.
+> 🥠 If you look back, you’ll soon be going that way.
 
-Last update: Sat Apr 11 05:52:45 2026
+Last update: Sun Apr 12 06:17:00 2026
 
 ### Let's play! 🎮
 
