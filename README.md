@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you look back, you’ll soon be going that way.
+> 🥠 There is no mistake so great as that of being always right.
 
-Last update: Sun Apr 12 06:17:00 2026
+Last update: Mon Apr 13 07:06:54 2026
 
 ### Let's play! 🎮
 
