@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 There is no mistake so great as that of being always right.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
-Last update: Mon Apr 13 07:06:54 2026
+Last update: Tue Apr 14 06:23:56 2026
 
 ### Let's play! 🎮
 
