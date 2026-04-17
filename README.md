@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 Your fortune said you need to make a donation. Follow the Paypal link.
 
-Last update: Thu Apr 16 06:26:47 2026
+Last update: Fri Apr 17 06:27:35 2026
 
 ### Let's play! 🎮
 
