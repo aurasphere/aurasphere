@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Never do something halfway. If you do it w
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 
-Last update: Sat Apr 18 06:05:15 2026
+Last update: Sun Apr 19 06:22:50 2026
 
 ### Let's play! 🎮
 
