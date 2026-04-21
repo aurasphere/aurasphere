@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some fortune cookies contain no fortune.
+> 🥠 Someone will invite you to a Karaoke party.
 
-Last update: Mon Apr 20 07:08:41 2026
+Last update: Tue Apr 21 06:27:28 2026
 
 ### Let's play! 🎮
 
