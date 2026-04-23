@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Hard work pays off in the future. Laziness pays off now.
+> 🥠 Ask not what your fortune cookie can do for you but what you can do for your fortune cookie.
 
-Last update: Wed Apr 22 06:27:55 2026
+Last update: Thu Apr 23 06:53:45 2026
 
 ### Let's play! 🎮
 
