@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Avoid taking unnecessary gambles. Lucky numbers: 12, 15, 23, 28, 37
+> 🥠 The road to riches is paved with homework.
 
-Last update: Sun May  3 07:12:23 2026
+Last update: Mon May  4 07:41:36 2026
 
 ### Let's play! 🎮
 
