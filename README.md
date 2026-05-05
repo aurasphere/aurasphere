@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The road to riches is paved with homework.
+> 🥠 If you look back, you’ll soon be going that way.
 
-Last update: Mon May  4 07:41:36 2026
+Last update: Tue May  5 07:10:02 2026
 
 ### Let's play! 🎮
 
