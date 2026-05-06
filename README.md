@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you look back, you’ll soon be going that way.
+> 🥠 The greatest danger could be your stupidity.
 
-Last update: Tue May  5 07:10:02 2026
+Last update: Wed May  6 07:28:44 2026
 
 ### Let's play! 🎮
 
