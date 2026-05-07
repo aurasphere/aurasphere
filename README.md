@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
 
-Last update: Wed May  6 07:28:44 2026
+Last update: Thu May  7 07:35:43 2026
 
 ### Let's play! 🎮
 
