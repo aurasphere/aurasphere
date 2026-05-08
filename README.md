@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
+> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
 
-Last update: Thu May  7 07:35:43 2026
+Last update: Fri May  8 06:25:46 2026
 
 ### Let's play! 🎮
 
