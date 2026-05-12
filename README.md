@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 We don’t know the future, but here’s a cookie.
+> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
 
-Last update: Mon May 11 08:18:29 2026
+Last update: Tue May 12 07:35:32 2026
 
 ### Let's play! 🎮
 
