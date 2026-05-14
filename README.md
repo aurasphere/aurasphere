@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 I can't believe you're about to eat my tiny home.
 
-Last update: Wed May 13 07:42:52 2026
+Last update: Thu May 14 07:35:22 2026
 
 ### Let's play! 🎮
 
