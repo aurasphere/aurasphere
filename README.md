@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 He who throws dirt is losing ground.
+> 🥠 Three can keep a secret, if you get rid of two.
 
-Last update: Sat May 16 07:08:02 2026
+Last update: Sun May 17 07:28:48 2026
 
 ### Let's play! 🎮
 
