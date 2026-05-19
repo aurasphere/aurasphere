@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It is a good day to have a good day.
+> 🥠 Do not mistake temptation for opportunity.
 
-Last update: Mon May 18 08:38:35 2026
+Last update: Tue May 19 08:18:24 2026
 
 ### Let's play! 🎮
 
