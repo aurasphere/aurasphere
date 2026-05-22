@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A conclusion is simply the place where you got tired of thinking.
+> 🥠 The greatest danger could be your stupidity.
 
-Last update: Thu May 21 08:24:20 2026
+Last update: Fri May 22 08:15:11 2026
 
 ### Let's play! 🎮
 
