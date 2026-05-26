@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 An alien of some sort will be appearing to you shortly.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Mon May 25 08:48:51 2026
+Last update: Tue May 26 08:24:00 2026
 
 ### Let's play! 🎮
 
