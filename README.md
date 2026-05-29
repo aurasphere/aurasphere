@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 It’s about time I got out of that cookie.
+> 🥠 You are not illiterate.
 
-Last update: Thu May 28 08:35:46 2026
+Last update: Fri May 29 08:35:43 2026
 
 ### Let's play! 🎮
 
