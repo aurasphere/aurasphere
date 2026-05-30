@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are not illiterate.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
-Last update: Fri May 29 08:35:43 2026
+Last update: Sat May 30 07:33:49 2026
 
 ### Let's play! 🎮
 
