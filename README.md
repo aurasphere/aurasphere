@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 Some men dream of fortunes, others dream of cookies.
 
-Last update: Mon Jun  1 10:08:45 2026
+Last update: Tue Jun  2 08:58:57 2026
 
 ### Let's play! 🎮
 
