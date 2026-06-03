@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some men dream of fortunes, others dream of cookies.
+> 🥠 Flattery will go far tonight.
 
-Last update: Tue Jun  2 08:58:57 2026
+Last update: Wed Jun  3 09:18:50 2026
 
 ### Let's play! 🎮
 
