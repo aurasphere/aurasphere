@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
+> 🥠 Three can keep a secret, if you get rid of two.
 
-Last update: Mon Jun 15 10:47:50 2026
+Last update: Tue Jun 16 09:59:57 2026
 
 ### Let's play! 🎮
 
