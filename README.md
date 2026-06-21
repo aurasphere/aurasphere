@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some men dream of fortunes, others dream of cookies.
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
-Last update: Sat Jun 20 08:15:46 2026
+Last update: Sun Jun 21 08:52:25 2026
 
 ### Let's play! 🎮
 
