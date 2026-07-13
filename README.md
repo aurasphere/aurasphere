@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Hard work pays off in the future. Laziness pays off now.
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 
-Last update: Sun Jul 12 07:23:14 2026
+Last update: Mon Jul 13 08:07:49 2026
 
 ### Let's play! 🎮
 
