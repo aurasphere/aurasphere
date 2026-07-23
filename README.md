@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You have rice in your teeth.
+> 🥠 You will live long enough to open many fortune cookies.
 
-Last update: Wed Jul 22 07:28:00 2026
+Last update: Thu Jul 23 07:25:30 2026
 
 ### Let's play! 🎮
 
