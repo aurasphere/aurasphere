@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You don't have to be faster than the bear, you just have to be faster than the slowing guy running from it.
+> 🥠 The greatest danger could be your stupidity.
 
-Last update: Sun Jul 26 07:28:38 2026
+Last update: Mon Jul 27 08:19:33 2026
 
 ### Let's play! 🎮
 
