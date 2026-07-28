@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The greatest danger could be your stupidity.
+> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
 
-Last update: Mon Jul 27 08:19:33 2026
+Last update: Tue Jul 28 07:29:57 2026
 
 ### Let's play! 🎮
 
