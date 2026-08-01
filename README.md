@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You love Chinese food.
+> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
 
-Last update: Fri Jul 31 07:43:07 2026
+Last update: Sat Aug  1 07:21:44 2026
 
 ### Let's play! 🎮
 
