@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
+> 🥠 Change is inevitable, except for vending machines.
 
-Last update: Sat Aug  1 07:21:44 2026
+Last update: Sun Aug  2 07:25:36 2026
 
 ### Let's play! 🎮
 
