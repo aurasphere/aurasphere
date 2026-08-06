@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will be hungry again in one hour.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Wed Aug  5 07:30:22 2026
+Last update: Thu Aug  6 07:30:28 2026
 
 ### Let's play! 🎮
 
