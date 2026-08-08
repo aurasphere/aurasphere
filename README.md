@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 That wasn’t chicken.
+> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
 
-Last update: Fri Aug  7 06:02:46 2026
+Last update: Sat Aug  8 05:33:52 2026
 
 ### Let's play! 🎮
 
