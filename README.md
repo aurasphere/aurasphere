@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Run.
+> 🥠 You will live long enough to open many fortune cookies.
 
-Last update: Thu Aug 13 06:07:51 2026
+Last update: Fri Aug 14 06:06:09 2026
 
 ### Let's play! 🎮
 
