@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 An alien of some sort will be appearing to you shortly.
+> 🥠 You will live long enough to open many fortune cookies.
 
-Last update: Sat Aug 22 05:15:52 2026
+Last update: Sun Aug 23 05:18:03 2026
 
 ### Let's play! 🎮
 
