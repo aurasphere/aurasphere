@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will live long enough to open many fortune cookies.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Sun Aug 23 05:18:03 2026
+Last update: Mon Aug 24 05:27:55 2026
 
 ### Let's play! 🎮
 
