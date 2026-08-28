@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Ignore previous cookie.
+> 🥠 We don’t know the future, but here’s a cookie.
 
-Last update: Thu Aug 27 15:57:38 2026
+Last update: Fri Aug 28 16:58:30 2026
 
 ### Let's play! 🎮
 
