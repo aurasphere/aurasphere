@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 I see money in your future. It's not yours though.
+> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
 
-Last update: Sun Aug 30 10:09:44 2026
+Last update: Mon Aug 31 11:12:09 2026
 
 ### Let's play! 🎮
 
