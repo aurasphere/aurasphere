@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
+> 🥠 Your resemblance to a muppet will prevent the world from taking you seriously.
 
-Last update: Mon Aug 31 11:12:09 2026
+Last update: Tue Sep  1 09:38:15 2026
 
 ### Let's play! 🎮
 
