@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
-Last update: Thu Sep  3 09:16:16 2026
+Last update: Fri Sep  4 09:10:02 2026
 
 ### Let's play! 🎮
 
