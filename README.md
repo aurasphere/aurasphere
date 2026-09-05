@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
+> 🥠 We don’t know the future, but here’s a cookie.
 
-Last update: Fri Sep  4 09:10:02 2026
+Last update: Sat Sep  5 08:41:11 2026
 
 ### Let's play! 🎮
 
