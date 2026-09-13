@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Only listen to the fortune cookie; disregard all other fortune telling units.
+> 🥠 Run.
 
-Last update: Sat Sep 12 08:55:15 2026
+Last update: Sun Sep 13 09:53:20 2026
 
 ### Let's play! 🎮
 
