@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you look back, you’ll soon be going that way.
+> 🥠 A cynic is only a frustrated optimist.
 
-Last update: Thu Sep 17 09:42:34 2026
+Last update: Fri Sep 18 09:16:16 2026
 
 ### Let's play! 🎮
 
