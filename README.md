@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will receive a fortune cookie.
+> 🥠 Fortune not found? Abort, Retry, Ignore.
 
-Last update: Sat Sep 19 09:02:28 2026
+Last update: Sun Sep 20 09:30:00 2026
 
 ### Let's play! 🎮
 
