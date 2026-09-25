@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You love Chinese food.
+> 🥠 A closed mouth gathers no feet.
 
-Last update: Thu Sep 24 09:36:29 2026
+Last update: Fri Sep 25 09:53:34 2026
 
 ### Let's play! 🎮
 
