@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A closed mouth gathers no feet.
+> 🥠 The road to riches is paved with homework.
 
-Last update: Fri Sep 25 09:53:34 2026
+Last update: Sat Sep 26 09:36:18 2026
 
 ### Let's play! 🎮
 
