@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Don’t forget you are always on our minds.
+> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
 
-Last update: Tue Sep 29 10:57:35 2026
+Last update: Wed Sep 30 10:47:33 2026
 
 ### Connect with me on LinkedIn to stay updated!
 
