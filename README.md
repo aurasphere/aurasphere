@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You are about to become $8.95 poorer ($6.95 if you had the buffet).
+> 🥠 Help! I am being held prisoner in a fortune cookie factory.
 
-Last update: Fri Oct  2 10:46:42 2026
+Last update: Sat Oct  3 10:06:41 2026
 
 ### Connect with me on LinkedIn to stay updated!
 
