@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Change is inevitable, except for vending machines.
+> 🥠 A fanatic is one who can't change his mind, and won't change the subject.
 
-Last update: Wed Oct  7 11:24:16 2026
+Last update: Thu Oct  8 11:39:50 2026
 
 ### Connect with me on LinkedIn to stay updated!
 
