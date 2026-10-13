@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 No snowflake feels responsible in an avalanche.
+> 🥠 Don’t eat the paper.
 
-Last update: Mon Oct 12 12:32:14 2026
+Last update: Tue Oct 13 12:16:22 2026
 
 ### Connect with me on LinkedIn to stay updated!
 
