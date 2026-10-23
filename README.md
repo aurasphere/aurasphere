@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 You will die alone and poorly dressed.
+> 🥠 There is no mistake so great as that of being always right.
 
-Last update: Thu Oct 22 09:42:44 2026
+Last update: Fri Oct 23 09:38:51 2026
 
 ### Connect with me on LinkedIn to stay updated!
 
