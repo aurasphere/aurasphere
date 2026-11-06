@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Three can keep a secret, if you get rid of two.
+> 🥠 Some fortune cookies contain no fortune.
 
-Last update: Thu Nov  5 12:49:12 2026
+Last update: Fri Nov  6 12:33:45 2026
 
 ### Connect with me on LinkedIn to stay updated!
 
