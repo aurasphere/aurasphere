@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 Some fortune cookies contain no fortune.
+> 🥠 You will die alone and poorly dressed.
 
-Last update: Fri Nov  6 12:33:45 2026
+Last update: Sat Nov  7 11:23:00 2026
 
 ### Connect with me on LinkedIn to stay updated!
 
