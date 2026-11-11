@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 A foolish man listens to his heart. A wise man listens to cookies.
+> 🥠 Three can keep a secret, if you get rid of two.
 
-Last update: Tue Nov 10 13:06:03 2026
+Last update: Wed Nov 11 12:15:38 2026
 
 ### Connect with me on LinkedIn to stay updated!
 
