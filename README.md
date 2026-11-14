@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 The world may be your oyster, but it doesn't mean you'll get its pearl.
+> 🥠 Three can keep a secret, if you get rid of two.
 
-Last update: Fri Nov 13 12:41:51 2026
+Last update: Sat Nov 14 11:50:31 2026
 
 ### Connect with me on LinkedIn to stay updated!
 
