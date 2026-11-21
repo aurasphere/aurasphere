@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 This cookie contains 117 calories.
+> 🥠 If a turtle doesn’t have a shell, is it naked or homeless?
 
-Last update: Fri Nov 20 13:41:22 2026
+Last update: Sat Nov 21 13:06:42 2026
 
 ### Connect with me on LinkedIn to stay updated!
 
