@@ -2,9 +2,9 @@
 
 I'm Donato, and this is your daily fortune:
 
-> 🥠 If you think we're going to sum up your whole life on this little piece of paper you're crazy.
+> 🥠 The fortune you seek is in another cookie.
 
-Last update: Fri Nov 27 14:28:58 2026
+Last update: Sat Nov 28 13:44:41 2026
 
 ### Connect with me on LinkedIn to stay updated!
 
